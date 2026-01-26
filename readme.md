@@ -106,6 +106,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date        | Event / Org                                           | Activity / Title                                                                                         |
 |------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Dec 2025   | AWS Community Day Kochi – AI/ML Edition – Speaker     | **Speaker** - Scaling Custom LLMs on EKS: Trn and Inf2-Powered AI Infrastructure (Co-presented with Veerasolaiyappan) |
 | Dec 2025   | Parul University                                      | **Speaker** – AWS Certifications & Cloud Career Paths (700+ students)                                   |
 | Dec 2025   | AWS Student Community Day Ilorin 2025                 | **Speaker** – From Code to Cloud: Automating Application Deployment with AWS DevOps Tools               |
 | Dec 2025   | AWS re:Invent 2025 (Las Vegas, USA)                   | **Attendee** – Containers, AI, Data and platform engineering sessions                                   |
