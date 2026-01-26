@@ -28,7 +28,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 ## Table of Contents
 
 - [Up Next](#up-next)
-- [2026 – Newsletter & Community Signal](#2026--newsletter--community-signal)
+- [2026 – Community](#2026--community)
 - [2025 – Scaling Impact](#2025--scaling-impact)
 - [2024 – Deepening the Roots](#2024--deepening-the-roots)
 - [2023 – From Local to Global](#2023--from-local-to-global)
@@ -49,9 +49,18 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 ---
 
-## 2026 – Newsletter & Community Signal
+## 2026 – Community 
 
-### Everything About Cloud & Tech – Newsletter
+### Talks, Workshops & Events
+
+| Date        | Event / Org                                           | Activity / Title                                                                                         |
+|------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Jan 2026   | AWS UG Vadodara – AWS re:Invent 2025 Recap            | **Speaker** – Compute, containers, and networking highlights from re:Invent 2025                        |
+| Jan 2026   | AWS UG Vadodara – AWS re:Invent 2025 Recap            | **Co-Organizer** – Planned and hosted the community re:Invent recap meetup                              |
+
+### Writing & Content
+
+**Everything About Cloud & Tech – Newsletter**
 
 **📰 Newsletter #53 – "The Unseen Layers of Systems" (Jan 26, 2026)**  
 - **Theme:** The infrastructure layers that make platforms *boringly reliable* — immutable container images, reproducible builds, KV caches, GPU utilization.  
@@ -80,6 +89,15 @@ This repository is my **source of truth** for how I give back to the tech commun
   - AWS 10,000 AIdeas & Community Builders 2026.
   - AWS Cloud Clubs & grassroots learning communities.
 
+**Blog Posts**
+
+- **Road to re:Invent: Cloud Concepts Made Easy** – Blog series simplifying major Pre–re:Invent 2025 AWS launches (Jan 2026)
+
+**Other Contributions**
+
+- **Author (Coming Soon, 2026)** – Book on Amazon EKS and production Kubernetes on AWS
+- **Technical Reviewer (Upcoming, 2026)** – Technical reviewer for an upcoming AWS EKS book
+
 ---
 
 ## 2025 – Scaling Impact
@@ -90,6 +108,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 |------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Dec 2025   | Parul University                                      | **Speaker** – AWS Certifications & Cloud Career Paths (700+ students)                                   |
 | Dec 2025   | AWS Student Community Day Ilorin 2025                 | **Speaker** – From Code to Cloud: Automating Application Deployment with AWS DevOps Tools               |
+| Dec 2025   | AWS re:Invent 2025 (Las Vegas, USA)                   | **Attendee** – Containers, AI, Data and platform engineering sessions                                   |
 | Nov 2025   | Amarathon Geek Talk 2025                              | **Speaker** – Cost-efficient Open-Source LLM Deployment on AWS P5.4xlarge                               |
 | Nov 2025   | AWS UG Vadodara – Deep Dive into Amazon ECS           | **Co-Organizer** – In-person meetup: ECS internals and hands-on learning                               |
 | Oct 2025   | HashiTalks India 2025                                 | **Co-Host** – Community-driven HashiTalks India (DevOps, Terraform, Vault, modern cloud)               |
