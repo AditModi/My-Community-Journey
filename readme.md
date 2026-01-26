@@ -96,7 +96,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 **Other Contributions**
 
 - **Author (Coming Soon, 2026)** – Book on Amazon EKS and production Kubernetes on AWS
-- **Technical Reviewer (Upcoming, 2026)** – Technical reviewer for an upcoming AWS EKS book
+- **Technical Reviewer (Coming Soon, 2026)** – Technical reviewer for an upcoming AWS EKS book
 
 ---
 
