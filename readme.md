@@ -8,7 +8,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 ## Quick Snapshot
 
-- **Location:** Vadodara, India  
+- **Location:** Vadodara, India (frequent work travel to Bengaluru)
 - **Role:** Solution Architect  
 - **Programs:** AWS Community Builder (Containers), AWS User Group Leader – Vadodara, AWS Ambassador  
 - **Certifications:** 12× AWS Certified – Golden Jacket  
