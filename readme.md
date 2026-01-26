@@ -351,7 +351,8 @@ This repository is my **source of truth** for how I give back to the tech commun
 | Recognition | Description |
 |-------------|-------------|
 | **12× AWS Certified – Golden Jacket** | Achieved all 12 AWS Certifications in 2023 and kept them active through continuous recertification. Enables sharing updated knowledge through talks, blogs, and mentoring. [Credly Link](https://www.credly.com/users/adit-modi) |
-| **AWS APJ Community Leaders Award Nominee** | Nominated for "Insist on High Standards" at re:Invent 2024 for building sustainable community operations and high-impact events. |
+| **AWS APJ Community Leaders Award Nominee – Re:Invent 2024 & 2025** | Nominated for "Insist on High Standards" (2024), and for “Re:Invent & Simplify” & “AWS Community Builder of the Year” (2025), recognizing sustained community leadership, mentorship, and impact. |
+| **AWS User Group Vadodara – Best User Group of the Year (2023, 2024, 2025)** | Nominated three consecutive years for the AWS APJ Community Leaders Award, highlighting consistent high-impact meetups, events, and community initiatives. |
 | **Sustainability in Leadership** | Maintained AWS UG Vadodara with 35+ monthly meetups over 3 years, 4 AWS Community Days, and 3 specialized AI/ML & GenAI editions—showcasing long-term sustainability and resilience. |
 | **Mentor & Enabler of Future Cloud Leaders** | Mentored students, first-time speakers, and community builders; helped multiple individuals land speaking slots at AWS events and advance their careers. |
 | **Speaker & Podcaster at AWS re:Invent Developer Lounge** | Delivered technical session and podcast on JupyterHub on EKS (2025), sharing production-grade EKS best practices globally. |
