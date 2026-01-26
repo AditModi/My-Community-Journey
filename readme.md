@@ -125,10 +125,8 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 ### Writing & Content
 
-**Everything About Cloud & Tech – Newsletter (Issues #41–53)**
+**Everything About Cloud & Tech – Newsletter (Issues #28–51)**
 
-- #53 – *The Unseen Layers of Systems* (Jan 26, 2026)
-- #52 – *Compute, Containers & Kubernetes* (Jan 19, 2026)
 - #51 – *Cloud Connectivity & Platform Updates* (Dec 18, 2025)
 - #50 – *re:Invent 2025 – Cloud Concepts Made Easy* (Dec 8, 2025)
 - #49 – *Just-in-Time (JIT) Access & Pre–re:Invent Highlights* (Nov 30, 2025)
@@ -140,6 +138,19 @@ This repository is my **source of truth** for how I give back to the tech commun
 - #43 – *Amazon Q & Agentic Automation* (Oct 20, 2025)
 - #42 – *FinOps & AI-Driven Monitoring* (Oct 13, 2025)
 - #41 – *ECS Managed Instances, Timestream & Bedrock* (Oct 6, 2025)
+- #40 – *Cost Optimization, Scaling & Cloud Hygiene* (Sep 29, 2025)
+- #39 – *Serverless Patterns & Event-Driven Design* (Sep 22, 2025)
+- #38 – *Observability, Logging & Cloud Operations* (Sep 15, 2025)
+- #37 – *Networking, Security Boundaries & IAM* (Sep 8, 2025)
+- #36 – *Containers on AWS: ECS, EKS & Tradeoffs* (Sep 1, 2025)
+- #35 – *Automation, CI/CD & Infrastructure as Code* (Aug 25, 2025)
+- #34 – *High Availability, Backups & DR Strategies* (Aug 18, 2025)
+- #33 – *Modern Data Pipelines & Analytics on AWS* (Aug 11, 2025)
+- #32 – *Cloud Security, Access Control & Governance* (Aug 4, 2025)
+- #31 – *Scaling Applications & Performance Tuning* (Jul 28, 2025)
+- #30 – *AWS Core Services & Architecture Fundamentals* (Jul 21, 2025)
+- #29 – *Getting Started with Cloud & Compute Basics* (Jul 14, 2025)
+- #28 – *Foundations of Cloud, DevOps & AWS Concepts* (Jul 7, 2025)
 
 **Blog Posts**
 
@@ -154,6 +165,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 **Other Contributions**
 
 - **Contributor to promptz.dev** – Provided product and developer feedback for Amazon Q Developer integration (Oct 2025)
+- **Contributor to nexus.share** – product feedback and technical guidance (Dec 2025)
 - **Technical Reviewer** – *Ultimate Elastic Kubernetes Service with AWS* (Oct 2025)
 
 ---
@@ -225,6 +237,38 @@ This repository is my **source of truth** for how I give back to the tech commun
 | Jan 2023  | AWS UG Vadodara – Legacy Database Modernization | **Co-Organizer** – Break Free From Legacy Databases with Amazon RDS |
 
 ### Writing & Content
+
+**Everything About Cloud & Tech – Newsletter (Issues #1–27)**
+
+- #27 – Cloud Basics, DevOps & Early AWS Learnings (Oct 24, 2023)
+- #26 – Introduction to AWS Services & Core Concepts (Oct 17, 2023)
+- #25 – Compute, Storage & Networking Fundamentals (Oct 10, 2023)
+- #24 – IAM, Security Basics & Shared Responsibility (Oct 3, 2023)
+- #23 – Virtual Private Cloud (VPC) & Networking 101 (Sep 26, 2023)
+- #22 – EC2 Deep Dive & Cost Awareness (Sep 19, 2023)
+- #21 – Storage Services: S3, EBS & EFS (Sep 12, 2023)
+- #20 – High Availability & Fault Tolerance Basics (Sep 5, 2023)
+- #19 – Load Balancing & Auto Scaling Concepts (Aug 29, 2023)
+- #18 – Monitoring, Logging & Cloud Visibility (Aug 22, 2023)
+- #17 – Backup, Recovery & Disaster Readiness (Aug 15, 2023)
+- #16 – Intro to Containers & Docker Fundamentals (Aug 8, 2023)
+- #15 – Getting Started with ECS & Containers on AWS (Aug 1, 2023)
+- #14 – CI/CD Basics & Deployment Pipelines (Jul 25, 2023)
+- #13 – Infrastructure Automation & Early IaC (Jul 18, 2023)
+- #12 – Serverless Concepts with AWS Lambda (Jul 11, 2023)
+- #11 – Event-Driven Architectures & Messaging (Jul 4, 2023)
+- #10 – Databases on AWS: RDS & DynamoDB Basics (Jun 27, 2023)
+- #9 – Designing Scalable Cloud Architectures (Jun 20, 2023)
+- #8 – Cost Optimization & Cloud Billing Awareness (Jun 13, 2023)
+- #7 – Security Best Practices for Beginners (Jun 6, 2023)
+- #6 – Understanding Cloud Networking Patterns (May 30, 2023)
+- #5 – From On-Prem to Cloud: Migration Basics (May 23, 2023)
+- #4 – DevOps Mindset & Cloud Operating Models (May 16, 2023)
+- #3 – Why Cloud? Benefits, Tradeoffs & Myths (May 9, 2023)
+- #2 – Getting Started with Cloud Computing (May 2, 2023)
+- #1 – Introduction to Everything About Cloud & Tech (Apr 25, 2023)
+
+**Blog Posts**
 
 - **Blog:** Optimizing AWS Infrastructure with Karpenter: A Deep Dive into Container Orchestration (Dec 2023)
 - **Blog:** Accelerating AI Deployment with DevOps Best Practices on AWS (Nov 2023)
