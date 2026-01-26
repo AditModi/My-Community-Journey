@@ -28,7 +28,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 ## Table of Contents
 
 - [Up Next](#up-next)
-- [2026 – Community](#2026--community)
+- [2026 – Global Resonance](#2026--global-resonance)
 - [2025 – Scaling Impact](#2025--scaling-impact)
 - [2024 – Deepening the Roots](#2024--deepening-the-roots)
 - [2023 – From Local to Global](#2023--from-local-to-global)
@@ -49,7 +49,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 ---
 
-## 2026 – Community 
+## 2026 – Global Resonance
 
 ### Talks, Workshops & Events
 
