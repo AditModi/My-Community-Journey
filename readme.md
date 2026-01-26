@@ -55,8 +55,8 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date        | Event / Org                                           | Activity / Title                                                                                         |
 |------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Jan 2026   | AWS UG Vadodara – AWS re:Invent 2025 Recap            | **Speaker** – Compute, containers, and networking highlights from re:Invent 2025                        |
-| Jan 2026   | AWS UG Vadodara – AWS re:Invent 2025 Recap            | **Co-Organizer** – Planned and hosted the community re:Invent recap meetup                              |
+| Jan 2026   | AWS UG Vadodara – AWS re:Invent 2025 Recap            | **Speaker & Co-Organizer** – Compute, containers, and networking highlights from re:Invent 2025           |
+
 
 ### Writing & Content
 
