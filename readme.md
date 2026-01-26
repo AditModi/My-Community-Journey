@@ -1,8 +1,8 @@
 # Adit Modi – Community Journey
 
-Hi, I’m Adit — a Solution Architect from Vadodara, India, working at the intersection of AWS, containers, platforms, and AI.
+Hi, I'm Adit — a Solution Architect from Vadodara, India, working at the intersection of AWS, containers, platforms, and AI.
 
-This repository is my **source of truth** for how I give back to the tech community: meetups, conferences, blogs, newsletters, mentoring, and everything in between. It’s not just a portfolio of what I’ve built, but a record of what we’ve built **together**.
+This repository is my **source of truth** for how I give back to the tech community: meetups, conferences, blogs, newsletters, mentoring, and everything in between. It's not just a portfolio of what I've built, but a record of what we've built **together**.
 
 ---
 
@@ -11,7 +11,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 - **Location:** Vadodara, India (frequent work travel to Bengaluru)
 - **Role:** Solution Architect  
 - **Programs:** AWS Community Builder (Containers), AWS User Group Leader – Vadodara, AWS Ambassador  
-- **Certifications:** 12× AWS Certified – Golden Jacket  
+- **Certifications:** 12× AWS Certified – Golden Jacket (2023–Present)  
 - **Focus Areas:**
   - Containers & cloud-native (EKS, ECS, Karpenter, Bottlerocket)
   - Cloud & DevOps (IaC, automation, networking, reliability)
@@ -19,7 +19,7 @@ This repository is my **source of truth** for how I give back to the tech commun
   - AI & GenAI on AWS (Bedrock, RAG, agentic workflows)
 - **Channels:**
   - Newsletter – *Everything About Cloud & Tech*
-  - Blogs – Hashnode + AWS/cloud-native deep dives
+  - Blogs – 100+ posts on AWS, containers, and cloud-native architectures
   - Meetups & Conferences – across India, APAC, and global virtual events
   - Mentoring – students, first-time speakers, and AWS builders
 
@@ -30,19 +30,18 @@ This repository is my **source of truth** for how I give back to the tech commun
 - [Up Next](#up-next)
 - [2026 – Newsletter & Community Signal](#2026--newsletter--community-signal)
 - [2025 – Scaling Impact](#2025--scaling-impact)
-  - [2025 – Talks, Workshops & Events](#2025--talks-workshops--events)
-  - [2025 – Writing & Content](#2025--writing--content)
 - [2024 – Deepening the Roots](#2024--deepening-the-roots)
 - [2023 – From Local to Global](#2023--from-local-to-global)
 - [2022 – Starting the Flywheel](#2022--starting-the-flywheel)
-- [2021 & Earlier – Foundations](#2021--earlier--foundations)
+- [2021 – Laying Foundations](#2021--laying-foundations)
+- [2020 – The Beginning](#2020--the-beginning)
+- [Ongoing Initiatives](#ongoing-initiatives)
+- [Recognitions & Achievements](#recognitions--achievements)
 - [How This Repo Works](#how-this-repo-works)
 
 ---
 
 ## Up Next
-
-Use this section like a live roadmap. Keep only *future* items here and move them into year sections once done.
 
 | Date & Time | Event / Platform | Title / Contribution |
 |------------|------------------|----------------------|
@@ -54,29 +53,29 @@ Use this section like a live roadmap. Keep only *future* items here and move the
 
 ### Everything About Cloud & Tech – Newsletter
 
-**📰 Newsletter #53 – “The Unseen Layers of Systems” (Jan 26, 2026)**  
-- Theme: The infrastructure layers that make platforms *boringly reliable* — immutable container images, reproducible builds, KV caches, GPU utilization.  
-- Focus:
+**📰 Newsletter #53 – "The Unseen Layers of Systems" (Jan 26, 2026)**  
+- **Theme:** The infrastructure layers that make platforms *boringly reliable* — immutable container images, reproducible builds, KV caches, GPU utilization.  
+- **Focus:**
   - Treating container images as versioned, immutable build artifacts.
   - Base images, layer hygiene, and ECR-backed deployment stability.
   - LLM inference internals: tokens, autoregressive decoding, throughput vs latency trade-offs.
-  - GPU profiling, KV-cache efficiency, and “context platform” engineering.
-- Community:
+  - GPU profiling, KV-cache efficiency, and "context platform" engineering.
+- **Community:**
   - Terraform best practices packaged for AI-assisted infra (Claude, MCP).
   - FAST: security-first template for Bedrock AgentCore apps.
   - promptz.dev as a shared knowledge layer for Kiro developers.
-- Impact: Highlighted the *hidden work* that turns fragile systems into dependable platforms.
+- **Impact:** Highlighted the *hidden work* that turns fragile systems into dependable platforms.
 
-**📰 Newsletter #52 – “Compute, Containers & Kubernetes” (Jan 19, 2026)**  
-- Theme: Real-world patterns for running containerized workloads reliably.  
-- Focus:
+**📰 Newsletter #52 – "Compute, Containers & Kubernetes" (Jan 19, 2026)**  
+- **Theme:** Real-world patterns for running containerized workloads reliably.  
+- **Focus:**
   - Readiness vs liveness probes, scaling behavior, and production health.
   - GitOps-driven Kubernetes journeys, EKS hybrid nodes, KRO (Kubernetes Resource Orchestrator).
   - Event-driven autoscaling on EKS with SQS, KEDA, and Karpenter.
-- AI & Infra:
+- **AI & Infra:**
   - NVIDIA open-sourcing production AI models.
   - AI agents, containers, and CI/CD for agents on Bedrock AgentCore.
-- Community:
+- **Community:**
   - AWS AI Conclave Bengaluru.
   - AWS 10,000 AIdeas & Community Builders 2026.
   - AWS Cloud Clubs & grassroots learning communities.
@@ -85,178 +84,239 @@ Use this section like a live roadmap. Keep only *future* items here and move the
 
 ## 2025 – Scaling Impact
 
-### 2025 – Talks, Workshops & Events
-
-> Reverse-chronological; talks, meetups, and major community events.
+### Talks, Workshops & Events
 
 | Date        | Event / Org                                           | Activity / Title                                                                                         |
 |------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Dec 2025   | Parul University                                      | **Speaker** – AWS Certifications & Cloud Career Paths                                                   |
+| Dec 2025   | Parul University                                      | **Speaker** – AWS Certifications & Cloud Career Paths (700+ students)                                   |
 | Dec 2025   | AWS Student Community Day Ilorin 2025                 | **Speaker** – From Code to Cloud: Automating Application Deployment with AWS DevOps Tools               |
 | Nov 2025   | Amarathon Geek Talk 2025                              | **Speaker** – Cost-efficient Open-Source LLM Deployment on AWS P5.4xlarge                               |
 | Nov 2025   | AWS UG Vadodara – Deep Dive into Amazon ECS           | **Co-Organizer** – In-person meetup: ECS internals and hands-on learning                               |
 | Oct 2025   | HashiTalks India 2025                                 | **Co-Host** – Community-driven HashiTalks India (DevOps, Terraform, Vault, modern cloud)               |
-| Oct 2025   | AWS UG West Midlands (Online)                         | **Speaker** – RAG Meets Reality: Building Secure, Compliant GenAI with Vault and Bedrock               |
-| Oct 2025   | AWS UG Madurai – Builder Sprint (Networking Month)    | **Speaker** – Mastering AWS Networking: From VPC to Global Connectivity                                |
+| Oct 2025   | AWS UG West Midlands (Online)                         | **Speaker** – RAG Meets Reality: Building Secure, Compliant GenAI with Vault and Bedrock (100+ attendees) |
+| Oct 2025   | AWS UG Madurai – Builder Sprint (Networking Month)    | **Speaker** – Mastering AWS Networking: From VPC to Global Connectivity (80+ attendees)                |
 | Oct 2025   | AWS UG Bengaluru Meetup                               | **Attendee** – AI × Cloud × Reliability: Build Smarter. Ship Faster. Stay Reliable.                    |
-| Oct 2025   | AWS UG Vadodara – “Behind the Booth – Building on AWS”| **Co-Organizer** – Post–Community Day deep dive into architectures behind booth projects               |
+| Oct 2025   | AWS UG Vadodara – "Behind the Booth – Building on AWS"| **Co-Organizer** – Post–Community Day deep dive into architectures behind booth projects (50+ attendees)|
+| Oct 2025   | Technical Reviewer – *Ultimate Elastic Kubernetes Service with AWS* | **Technical Reviewer** – Validated EKS and AWS integrations for production-grade book |
 | Sep 2025   | HashiConf Global 2025, San Francisco                  | **Speaker** – RAG Meets Reality: Building Secure, Compliant GenAI with Vault and Bedrock               |
 | Sep 2025   | AWS Summit Los Angeles 2025                           | **Attendee** – Represented AWS UG Vadodara; shared insights with local community                       |
 | Sep 2025   | AWS Community Day Vadodara 2025                       | **Co-Organizer** – 650+ attendees, 30+ speakers, 3 tracks (AI/ML, Serverless, DevOps, Security)        |
-| Aug 2025   | AWS UG Vadodara – AI Meets Access Management          | **Co-Organizer** – Meetup on Amazon Q and secure access management                                     |
+| Aug 2025   | AWS UG Vadodara – AI Meets Access Management          | **Co-Organizer** – Meetup on Amazon Q and secure access management (40+ attendees)                     |
 | Aug 2025   | AWS Community Day Singapore 2025                      | **Attendee** – Cross-region AWS community collaboration                                                |
 | Jul 2025   | HashiDays Singapore 2025                              | **Speaker** – The Security Meltdown: How Vault and Boundary Redefined Trust                           |
-| Jul 2025   | AWS UG Vadodara – Amplify AI Kit                      | **Co-Organizer** – Build Full-Stack AI Experiences with Amplify AI Kit                                |
-| Jun 2025   | AWS UG Vadodara – IoT with AWS IoT Core & SiteWise    | **Co-Organizer** – Unlocking the Power of IoT with AWS                                                 |
-| May 2025   | AWS Cloud Club, Parul University                      | **Speaker** – AWS Certifications & Cloud Career Paths                                                  |
-| May 2025   | AWS Community Bengaluru 2025                          | **Speaker** – AWS Networking: From VPC to Global Connectivity                                          |
+| Jul 2025   | AWS UG Vadodara – Amplify AI Kit                      | **Co-Organizer** – Build Full-Stack AI Experiences with Amplify AI Kit (50+ attendees)                |
+| Jun 2025   | AWS UG Vadodara – IoT with AWS IoT Core & SiteWise    | **Co-Organizer** – Unlocking the Power of IoT with AWS (40+ attendees)                                 |
+| May 2025   | AWS Cloud Club, Parul University                      | **Speaker** – AWS Certifications & Cloud Career Paths (100+ students)                                  |
+| May 2025   | AWS Community Bengaluru 2025                          | **Speaker** – AWS Networking: From VPC to Global Connectivity (150+ attendees)                         |
 | May 2025   | AWS Developers Podcast                                | **Guest** – Scaling JupyterHub on AWS EKS & using Amazon Q to enhance developer experience             |
-| May 2025   | AWS Community Day Vadodara: GenAI Edition             | **Organizer & Speaker** – Agentic AI in Action: Building Real-World Workflows with Foundation Models   |
-| May 2025   | AWS Summit Bengaluru – Developer Lounge               | **Speaker** – Scaling JupyterHub on AWS EKS for ML Workloads                                           |
-| Apr 2025   | AWS UG Vadodara – Proactive Monitoring                | **Co-Organizer** – AWS-native monitoring & observability best practices                                |
+| May 2025   | AWS Community Day Vadodara: GenAI Edition             | **Organizer & Speaker** – Agentic AI in Action: Building Real-World Workflows (200+ attendees)         |
+| May 2025   | AWS Summit Bengaluru – Developer Lounge               | **Speaker** – Scaling JupyterHub on AWS EKS for ML Workloads (300+ attendees)                          |
+| Apr 2025   | AWS UG Vadodara – Proactive Monitoring                | **Co-Organizer** – AWS-native monitoring & observability best practices (50+ attendees)                |
 | Apr 2025   | AWS UG Vadodara × Parul University (Online)           | **Speaker** – Introduction to Cloud Computing with AWS                                                 |
 | Mar 2025   | AWS Global Community (Virtual)                        | **Speaker** – Mastering AWS Cost Optimization                                                          |
-| Mar 2025   | DataPopkorn                                           | **Speaker** – Time-Series Analytics with Amazon Timestream                                             |
+| Mar 2025   | DataPopkorn                                           | **Speaker** – Time-Series Analytics with Amazon Timestream (200+ attendees)                            |
 | Mar 2025   | DataPopkorn                                           | **Speaker** – 5 Minutes to Transform Analytics with SageMaker & Lakehouse                             |
-| Mar 2025   | AWS UG Vadodara – Women in Tech: AI & ML on AWS       | **Co-Organizer** – Women in Tech–focused AI/ML meetup                                                  |
-| Feb 2025   | AWS UG Vadodara – AWS EventBridge Workshop            | **Co-Organizer** – Hands-on meetup on EventBridge filtering and replay                                |
-| Feb 2025   | AWS Community Day Ahmedabad 2025                      | **Speaker** – Mastering AWS Networking: From VPCs to Global Connectivity                               |
-| Feb 2025   | AWS UG Madurai – re:Invent Recap (Analytics)          | **Speaker** – Analytics Highlights from re:Invent 2024                                                |
-| Feb 2025   | AWS UG Bengaluru                                      | **Attendee** – Monthly meetup, cross-community learning                                               |
+| Mar 2025   | AWS UG Vadodara – Women in Tech: AI & ML on AWS       | **Co-Organizer** – Women in Tech–focused AI/ML meetup (50+ attendees)                                 |
+| Feb 2025   | AWS UG Vadodara – AWS EventBridge Workshop            | **Co-Organizer** – Hands-on meetup on EventBridge filtering and replay (40+ attendees)                |
+| Feb 2025   | AWS Community Day Ahmedabad 2025                      | **Speaker** – Mastering AWS Networking: From VPCs to Global Connectivity (250+ attendees)              |
+| Feb 2025   | AWS UG Madurai – re:Invent Recap (Analytics)          | **Speaker** – Analytics Highlights from re:Invent 2024 (100+ attendees)                               |
+| Feb 2025   | AWS UG Bengaluru                                      | **Attendee** – Monthly meetup, cross-community learning (with Jeff Barr)                              |
 | Jan 2025   | AWS UG Vadodara – re:Invent 2024 Recap                | **Speaker & Co-Organizer** – Data & Analytics Highlights from re:Invent 2024                          |
 
-### 2025 – Writing & Content
+### Writing & Content
 
-**Everything About Cloud & Tech – Newsletter**
+**Everything About Cloud & Tech – Newsletter (Issues #41–53)**
 
-- #53 – *The Unseen Layers of Systems* (Jan 26, 2026) – Immutable images, KV-cache, inference internals, GPU profiling.  
-- #52 – *Compute, Containers & Kubernetes* (Jan 19, 2026) – Health checks, autoscaling, GitOps platforms, AI + infra signals.  
-- #51 – *Cloud Connectivity & Platform Updates* (Dec 18, 2025) – Private connectivity, EKS network policies, serverless and AI announcements.  
-- #50 – *re:Invent 2025 – Cloud Concepts Made Easy* (Dec 8, 2025) – Nova 2, Lambda Durable Functions, Database Savings Plans, Frontier Agents, etc.  
-- #49 – *Just-in-Time (JIT) Access & Pre–re:Invent Highlights* (Nov 30, 2025) – JIT access patterns, S3 Backup tiers, Bedrock reserved capacity, ECS Express Mode.  
-- #48 – *ResOps & Agentic AI Architectures* (Nov 24, 2025) – Reliability operations, cost-efficient OSS LLM deployment, Bedrock agents on EKS.  
-- #47 – *Aurora I/O-Optimized & Backup for EKS* (Nov 17, 2025) – I/O-optimized Aurora, Backup for EKS, Bedrock AgentCore runtime, community hackathons.  
-- #46 – *Legacy Modernization & Agentic AI at Scale* (Nov 10, 2025) – Strangler fig, leave-and-layer, AgentCore Gateway, Claude Code in real workflows.  
-- #45 – *Change Data Capture & Multi-Cloud Reality Check* (Nov 3, 2025) – Debezium, hybrid cloud resilience, ECS linear/canary deployments.  
-- #44 – *Incident Analysis & Reliability in AWS* (Oct 27, 2025) – Major AWS outage deep dive, operational resilience and DR patterns.  
-- #43 – *Amazon Q & Agentic Automation* (Oct 20, 2025) – Agentic automation updates, future-ready cloud architectures.  
-- #42 – *FinOps & AI-Driven Monitoring* (Oct 13, 2025) – Cost optimization frameworks, AI monitoring with Amazon Q Developer.  
-- #41 – *ECS Managed Instances, Timestream & Bedrock* (Oct 6, 2025) – Container compute, analytics at scale, Bedrock capabilities.
+- #53 – *The Unseen Layers of Systems* (Jan 26, 2026)
+- #52 – *Compute, Containers & Kubernetes* (Jan 19, 2026)
+- #51 – *Cloud Connectivity & Platform Updates* (Dec 18, 2025)
+- #50 – *re:Invent 2025 – Cloud Concepts Made Easy* (Dec 8, 2025)
+- #49 – *Just-in-Time (JIT) Access & Pre–re:Invent Highlights* (Nov 30, 2025)
+- #48 – *ResOps & Agentic AI Architectures* (Nov 24, 2025)
+- #47 – *Aurora I/O-Optimized & Backup for EKS* (Nov 17, 2025)
+- #46 – *Legacy Modernization & Agentic AI at Scale* (Nov 10, 2025)
+- #45 – *Change Data Capture & Multi-Cloud Reality Check* (Nov 3, 2025)
+- #44 – *Incident Analysis & Reliability in AWS* (Oct 27, 2025)
+- #43 – *Amazon Q & Agentic Automation* (Oct 20, 2025)
+- #42 – *FinOps & AI-Driven Monitoring* (Oct 13, 2025)
+- #41 – *ECS Managed Instances, Timestream & Bedrock* (Oct 6, 2025)
 
-**Blog Posts & Series**
+**Blog Posts**
 
-- **Road to re:Invent: Cloud Concepts Made Easy** – Blog series simplifying major Pre–re:Invent 2025 AWS launches:
-  - Container Network Observability for EKS  
-  - ECS Express Mode  
-  - AWS Billing Transfer  
-  - API Gateway Developer Portal  
-  - Lambda Tenant Isolation Mode  
-  - S3 ABAC, CloudFront flat-rate pricing  
-  - Private ALB support for REST APIs  
-  - Regional NAT Gateway, new Bedrock tiers  
-- **Amazon Quick Suite – Deep Dive into AWS’s Agentic AI Workspace** – How Quick Suite enables AI-driven workflows and unified tooling.  
-- **Amazon ECS Managed Instances: The Best of Both Worlds for Container Compute** – Architecture trade-offs, scaling patterns, best practices.  
-- **Amazon EBS Volume Clones: A Simple, Fast Way to Copy Cloud Disks** – Copy workflows, migration and backup patterns.  
-- **Securing AWS RDS Passwords in Terraform: Two Production-Ready Approaches** – AWS Secrets Manager vs SSM Parameter Store for secrets in IaC.  
+- **Road to re:Invent: Cloud Concepts Made Easy** – Blog series simplifying major Pre–re:Invent 2025 AWS launches (Nov 2025)
+- **Amazon Quick Suite – Deep Dive into AWS's Agentic AI Workspace** (Oct 2025)
+- **Amazon ECS Managed Instances: The Best of Both Worlds for Container Compute** (Oct 2025)
+- **Amazon EBS Volume Clones: A Simple, Fast Way to Copy Cloud Disks** (Oct 2025)
+- **Securing AWS RDS Passwords in Terraform: Two Production-Ready Approaches** (Oct 2025)
+- **Designing AI/ML Infrastructure on EKS: Blueprint to Run at Scale** (Jun 2025)
+- **Data Platform Blueprints: Launching Enterprise Data Workloads on EKS** (Jan 2025)
 
-**Books & Contributions**
+**Other Contributions**
 
-- **Technical Reviewer** – *Ultimate Elastic Kubernetes Service with AWS* – Ensured accuracy and best practices across EKS and AWS integrations.  
-
-**Product / Community Feedback**
-
-- Contributor to **promptz.dev** – Shared Amazon Q Developer–focused feedback and improvements for real-world prompt engineering workflows.
+- **Contributor to promptz.dev** – Provided product and developer feedback for Amazon Q Developer integration (Oct 2025)
+- **Technical Reviewer** – *Ultimate Elastic Kubernetes Service with AWS* (Oct 2025)
 
 ---
 
 ## 2024 – Deepening the Roots
 
-> This section is structured and ready; add all your 2024 entries here in the same style as 2025 (talks, meetups, writing, newsletter issues).
+### Talks, Workshops & Events
 
-### 2024 – Talks, Workshops & Events
+| Date       | Event / Org                            | Activity / Title                                                       |
+|-----------|----------------------------------------|------------------------------------------------------------------------|
+| Dec 2024  | AWS Community Day Kochi                | **Speaker** – Multi-Account Management with AWS Control Tower (450+ attendees) |
+| Dec 2024  | AWS UG Vadodara – GenAI & re:Invent    | **Co-Organizer** – Generative AI & re:Invent 2024 Highlights (40+ attendees) |
+| Dec 2024  | LinkedIn Live – re:Invent Recap        | **Host** – Highlighted impactful AWS re:Invent 2024 announcements     |
+| Nov 2024  | AWS UG Vadodara Monthly Meetup         | **Co-Organizer** – GenAI Security & Community Launches                |
+| Nov 2024  | AWS User Group China Marathon          | **Speaker** – Real-Time Financial Insights with Amazon Timestream     |
+| Nov 2024  | AWS Community Day Jakarta              | **Speaker** – Multi-Account Governance with Control Tower (200+ attendees) |
+| Oct 2024  | AWS Community Day Vadodara 2024        | **Co-Organizer** – 600+ attendees, multiple technical tracks          |
+| Oct 2024  | AWS Community Day Vadodara 2024        | **Speaker** – Using Amazon Q for QuickSight                           |
+| Oct 2024  | All Day DevOps                         | **Speaker** – Enhancing AWS CDK Workflows with Amazon Q               |
+| Oct 2024  | AWS Community Day Hungary              | **Speaker** – Practical AWS Cost Optimization                         |
+| Sep 2024  | ITM University                         | **Speaker** – Getting Started with AWS Certifications (100+ students) |
+| Aug 2024  | AWS Community Day Pune                 | **Speaker** – Time-Series Analytics with Amazon Timestream (200+ attendees) |
+| Aug 2024  | AWS UG Vadodara – GenAI Edition        | **Co-Organizer & Speaker** – Secure & Responsible GenAI on AWS (250+ attendees) |
+| Aug 2024  | JAWS Pankration (Japan)                | **Speaker** – Amazon Timestream for Real-Time Analytics               |
+| Jul 2024  | Local University GenAI Session         | **Speaker** – Intro to AWS GenAI                                      |
+| Jul 2024  | Alma Mater                             | **Speaker** – AWS Security Best Practices                             |
+| Jul 2024  | AWS UG Vadodara – Data Engg + ClickHouse| **Co-Organizer** – Data Engineering on AWS & ClickHouse              |
+| Jun 2024  | AIOps Panel                            | **Speaker** – AIOps with AWS Observability Tools (200+ attendees)     |
+| Jun 2024  | CNCF Vadodara                          | **Speaker** – AWS + Open-Source Observability (50+ attendees)         |
+| Jun 2024  | AWS UG Vadodara – Serverless           | **Co-Organizer** – Serverless Architectures on AWS (70+ attendees)    |
+| May 2024  | AWS Summit Bengaluru                   | **Speaker** – AWS Cost Optimization (Developer Lounge, 300+ attendees)|
+| May 2024  | AWS UG Vadodara – Platform Engineering | **Co-Organizer** – Platform Engineering on AWS (80+ attendees)        |
+| Apr 2024  | AWS UG Vadodara × HUG Vadodara         | **Speaker** – Terraform Meets EKS (hands-on, 70+ attendees)          |
+| Apr 2024  | AWS UG Vadodara – Terraform & EKS      | **Co-Organizer** – IaC + EKS architecture patterns                    |
+| Mar 2024  | AWS UG Vadodara – ECS vs EKS           | **Speaker & Co-Organizer** – Containers on AWS (80+ attendees)        |
+| Feb 2024  | AWS UG Vadodara – re:Invent AI/ML      | **Speaker & Co-Organizer** – AI/ML Recap (100+ attendees)            |
+| Jan 2024  | 90 Days of DevOps Show                 | **Speaker** – AWS Systems Manager                                     |
+| Jan 2024  | AWS UG Vadodara – AWS CDK              | **Co-Organizer** – Kickoff meetup on AWS CDK (80+ attendees)         |
 
-| Date       | Event / Org                        | Activity / Title (to be filled with your exact 2024 entries)         |
-|-----------|-------------------------------------|---------------------------------------------------------------------|
-| 2024      | …                                   | …                                                                   |
+### Writing & Content
 
-*(Paste each 2024 talk/meetup/panel here, one per row.)*
-
-### 2024 – Writing & Content
-
-- Everything About Cloud & Tech – all 2024 issues (list per issue if you want, similar to 2025).  
-- Key blogs (e.g., Karpenter, containers, cost optimization, first GenAI posts).  
+- **Blog:** Amazon S3 CSI driver for Kubernetes (Jan 2024)
+- **Blog:** Amazon EC2 vs ECS vs EKS – Which AWS Service Is Right for Your Application? (Nov 2024)
+- **Blog:** AWS Cost Optimization Story – Managing GPU and EKS Expenses in AI Prediction Models (Nov 2024)
+- Ongoing *Everything About Cloud & Tech* newsletter issues throughout the year
 
 ---
 
 ## 2023 – From Local to Global
 
-> First big year where your local work (Vadodara, India) connects with broader AWS & cloud-native communities.
+### Talks, Workshops & Events
 
-### 2023 – Talks, Workshops & Events
+| Date       | Event / Org                            | Activity / Title                                                       |
+|-----------|----------------------------------------|------------------------------------------------------------------------|
+| Dec 2023  | AWS UG Vadodara Meetup                 | **Co-Organizer** – Community growth & planning session                |
+| Nov 2023  | AWS Community Day Vadodara 2023        | **Co-Organizer** – Flagship community event with high-quality sessions |
+| Oct 2023  | AWS Community Day Vadodara 2023        | **Speaker** – Accelerating AI Deployment with DevOps Best Practices on AWS (co-presented with Ishan Modi) |
+| Oct 2023  | AWS UG Vadodara – Data Warehousing     | **Co-Organizer** – Modern data warehousing with AWS (100+ attendees)  |
+| Sep 2023  | AWS UG Vadodara – Certification Roadmap| **Speaker & Co-Organizer** – AWS Certification Roadmap: Accelerate Your Career Trajectory (80+ attendees) |
+| Aug 2023  | AWS AI/ML Community Day Vadodara       | **Co-Organizer** – One-day AI/ML event with 250+ attendees, immersive sessions on GenAI and SageMaker |
+| Jul 2023  | AWS UG Vadodara × HUG Vadodara         | **Co-Organizer** – Infrastructure as Code with Terraform (70+ attendees) |
+| Jul 2023  | AWS UG Vadodara – Student Meetup       | **Co-Organizer** – Basics of Cloud Computing & AWS for students       |
+| Jun 2023  | AWS UG Vadodara – Amazon Neptune       | **Co-Organizer** – Introduction to Graph Database with Amazon Neptune |
+| May 2023  | AWS Community Day Ahmedabad (Containers)| **Speaker** – Supercharge Your Data Processing with Amazon EMR on EKS |
+| May 2023  | AWS UG Vadodara – AWS Machine Learning | **Co-Organizer** – Introduction to AWS Machine Learning               |
+| Apr 2023  | AWS UG Vadodara – Serverless Deep Dive | **Co-Organizer** – Deep Dive into Serverless Architecture             |
+| Feb 2023  | AWS UG Vadodara – re:Invent reCap Part 2 (Women in Tech Special) | **Co-Organizer** – re:Invent reCap + International Women's Day session |
+| Feb 2023  | AWS UG Vadodara – re:Invent reCap      | **Speaker & Co-Organizer** – AWS re:Invent 2022 highlights on Analytics |
+| Jan 2023  | AWS UG Vadodara – Legacy Database Modernization | **Co-Organizer** – Break Free From Legacy Databases with Amazon RDS |
 
-| Date       | Event / Org                        | Activity / Title (to be filled with your exact 2023 entries)         |
-|-----------|-------------------------------------|---------------------------------------------------------------------|
-| 2023      | AWS Community Day Vadodara 2023    | Co-Organizer & Speaker – …                                          |
-| 2023      | AWS UG Vadodara Meetups            | Organizer / Speaker – …                                             |
-| 2023      | …                                   | …                                                                   |
+### Writing & Content
 
-### 2023 – Writing & Content
-
-- Newsletter issues for 2023.  
-- Blogs on containers, EKS, cost optimization, and your early deep dives into platform building.  
+- **Blog:** Optimizing AWS Infrastructure with Karpenter: A Deep Dive into Container Orchestration (Dec 2023)
+- **Blog:** Accelerating AI Deployment with DevOps Best Practices on AWS (Nov 2023)
+- **Blog:** Supercharge Your Data Processing with EMR on EKS (Jun 2023)
+- Continued *Everything About Cloud & Tech* newsletter throughout the year
 
 ---
 
 ## 2022 – Starting the Flywheel
 
-> The year community momentum really starts: first Community Day, early meetups, and structured content.
+### Talks, Workshops & Events
 
-### 2022 – Talks, Workshops & Events
+| Date       | Event / Org                            | Activity / Title                                                       |
+|-----------|----------------------------------------|------------------------------------------------------------------------|
+| Dec 2022  | AWS UG Vadodara Post-Community Day Meetup | **Co-Organizer** – Review and planning for Community Day 2023       |
+| Nov 2022  | AWS Community Day Vadodara 2022        | **Co-Organizer** – First flagship AWS Community Day in Vadodara (400+ attendees) |
+| Nov 2022  | AWS Community Day Vadodara 2022        | **Speaker** – Session on AWS technologies (200+ attendees)            |
+| Oct 2022  | AWS UG Vadodara – Certification Journey | **Speaker** – Kickstarting Your AWS Certification Journey (co-presented with Nilesh Vaghela) |
 
-| Date       | Event / Org                        | Activity / Title (to be filled with your exact 2022 entries)         |
-|-----------|-------------------------------------|---------------------------------------------------------------------|
-| 2022      | AWS Community Day Vadodara 2022    | Co-Organizer & Speaker – …                                          |
-| 2022      | AWS UG Vadodara Meetups            | Organizer / Speaker – …                                             |
-| 2022      | …                                   | …                                                                   |
+### Writing & Content
 
-### 2022 – Writing & Content
-
-- Early newsletter editions.  
-- Foundational blogs on AWS fundamentals, cloud careers, and certifications.  
+- **Blog:** Accelerate Modern Application Development with Containers (Sep 2022)
+- Early *Everything About Cloud & Tech* newsletter editions
+- Launch of **Cloud Tech Podcast** (co-hosted with Ishan Modi)
 
 ---
 
-## 2021 & Earlier – Foundations
+## 2021 – Laying Foundations
 
-> Before the big events and long tables, this is where curiosity turned into contribution.
+### Writing & Content
 
-| Year | Highlights                                                                                  |
-|------|---------------------------------------------------------------------------------------------|
-| 2021 | Introduction to Containers with AWS; first consistent AWS / cloud-native blogging           |
-| 2020 | Early AWS Community Builder involvement; answering questions, helping peers, small talks    |
-| 2019 | First experiments with cloud, initial public sharing, mentoring in local circles            |
+| Activity | Description                                                                 |
+|----------|-----------------------------------------------------------------------------|
+| Blog     | **Introducing Karpenter – An Open Source High-Performance Kubernetes Cluster Autoscaler** (Dec 2021) |
+| Blog     | **Introduction to Containers with AWS** (Apr 2021)                          |
+| Podcast  | Co-hosted **Cloud Tech Podcast** – early episodes on cloud & AWS topics    |
+
+---
+
+## 2020 – The Beginning
+
+| Activity | Description                                                                 |
+|----------|-----------------------------------------------------------------------------|
+| AWS Community Builder | Joined AWS Community Builder program (Containers track, 2020–2022; rejoined Sep 2023) |
+| Blog     | Early AWS blog posts and public sharing of cloud learning journey          |
+| Mentoring | Started informal mentoring of peers and students exploring AWS             |
+
+---
+
+## Ongoing Initiatives
+
+- **Everything About Cloud & Tech** – bi-weekly newsletter for AWS, cloud-native, and GenAI builders (2020–Present)
+- **Cloud Tech Podcast** – co-hosted with Ishan Modi (2021–Present)
+- **AWS UG Vadodara** – 35+ monthly meetups over 3+ years without a break (2022–Present)
+- **Mentoring** – students, first-time speakers, and community members starting their AWS journey
+
+---
+
+## Recognitions & Achievements
+
+| Recognition | Description |
+|-------------|-------------|
+| **12× AWS Certified – Golden Jacket** | Achieved all 12 AWS Certifications in 2023 and kept them active through continuous recertification. Enables sharing updated knowledge through talks, blogs, and mentoring. [Credly Link](https://www.credly.com/users/adit-modi) |
+| **AWS APJ Community Leaders Award Nominee** | Nominated for "Insist on High Standards" at re:Invent 2024 for building sustainable community operations and high-impact events. |
+| **Sustainability in Leadership** | Maintained AWS UG Vadodara with 35+ monthly meetups over 3 years, 4 AWS Community Days, and 3 specialized AI/ML & GenAI editions—showcasing long-term sustainability and resilience. |
+| **Mentor & Enabler of Future Cloud Leaders** | Mentored students, first-time speakers, and community builders; helped multiple individuals land speaking slots at AWS events and advance their careers. |
+| **Speaker & Podcaster at AWS re:Invent Developer Lounge** | Delivered technical session and podcast on JupyterHub on EKS (2025), sharing production-grade EKS best practices globally. |
+| **Open-Source Contributions for AWS Containers** | Maintains widely adopted OSS projects: Jenkins EKS CI/CD pipeline (200+ stars), Terraform modules, EMR on EKS templates—accelerating container adoption globally. |
+| **Community Innovation & Hands-On Learning** | Designed interactive demos for AWS Community Days (AI photo booths, architecture challenges, GenAI EKS showcases) to reduce barriers to cloud-native learning. |
+| **Media & Thought Leadership** | Featured on AWS Developers Podcast, co-host of Cloud Tech Podcast, and curator of *Everything About Cloud & Tech* newsletter—reaching 5,000+ learners globally. |
 
 ---
 
 ## How This Repo Works
 
 - **Single source of truth:**  
-  Every community activity — **talks, organizing, blogs, newsletter issues, mentoring highlights** — should be represented here.
+  Every community activity — **talks, organizing, blogs, newsletter issues, mentoring highlights** — is represented here.
 
 - **Year-based sections:**  
   Each year gets:
   - A table for **Talks, Workshops & Events**
-  - A bullet list (or sub-section) for **Writing & Content**
+  - A subsection for **Writing & Content**
   - Optional notes for **Books, Reviews, Product feedback**
 
 - **Workflow for updates:**
-  1. Add new confirmed talks or events to **“Up Next”**.  
-  2. After the event, move the row into the correct year’s table.  
-  3. When you publish a new blog or newsletter issue, add a one-liner under that year’s *Writing & Content*.  
+  1. Add new confirmed talks or events to **"Up Next"**.  
+  2. After the event, move the row into the correct year's table.  
+  3. When you publish a new blog or newsletter issue, add a one-liner under that year's *Writing & Content*.  
 
 - **Goal:**  
-  Make it easy for anyone (AWS, conference organizers, collaborators, mentees) to see **the full arc of your community impact** — and for you to look back and see how far you’ve come.
+  Make it easy for anyone (AWS, conference organizers, collaborators, mentees) to see **the full arc of my community impact** — and for me to look back and see how far I've come.
 
 ---
 
-> To fully complete this README, now paste all remaining 2024, 2023, and 2022 entries from your tracker into the respective tables above. The structure is ready; you just need to drop them in.
+> **Note:** This repository is continuously updated. The best way to stay current is to follow the newsletter at [everythingaboutcloudtech.substack.com](https://everythingaboutcloudtech.substack.com) and connect on [LinkedIn](https://www.linkedin.com/in/adit-n-modi/).
