@@ -63,6 +63,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Issue | Date | Title | Link |
 |-------|------|-------|------|
+| #54 | 02 Feb 2026 | Inference, Platforms, and the Cost of Iteration | [Read here](https://everythingaboutcloudtech.substack.com) |
 | #53 | 26 Jan 2026 | The Unseen Layers of Systems | [Read here](https://everythingaboutcloudtech.substack.com) |
 | #52 | 19 Jan 2026 | Compute, Containers & Kubernetes | [Read here](https://everythingaboutcloudtech.substack.com) |
 
