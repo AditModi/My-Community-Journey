@@ -71,7 +71,9 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date | Title | Link |
 |------|-------|------|
-| Jan 2026 | Road to re:Invent: Cloud Concepts Made Easy – Blog series | [Blog Series](https://hashnode.com/@aditmodi24) |
+| Jan 2026 | Deploying GPU-Accelerated AI/ML Workloads to Amazon ECS: Traditional vs Managed Instances | [Read here](https://aditmodi.hashnode.dev/deploying-gpu-accelerated-aiml-workloads-to-amazon-ecs-traditional-vs-managed-instances) |
+| Jan 2026 | ECS Task Rebalancing: How AWS Finally Solved a 9-Year-Old Problem | [Read here](https://aditmodi.hashnode.dev/ecs-task-rebalancing-how-aws-finally-solved-a-9-year-old-problem) |
+| Jan 2026 | ECS Linear and Canary Deployments: Finally Native Traffic Shifting Without the Glue Code | [Read here](https://aditmodi.hashnode.dev/ecs-linear-and-canary-deployments-finally-native-traffic-shifting-without-the-glue-code) |
 
 **Other Contributions**
 
@@ -160,6 +162,10 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date | Title | Link |
 |------|-------|------|
+| December 2025 | Benchmarking LLM Performance on AWS Trainium & Inferentia2: What Builders Need to Know | [Read here](https://aditmodi.hashnode.dev/benchmarking-llm-performance-on-aws-trainium-and-inferentia2-what-builders-need-to-know) |
+| December 2025 | Deploying vLLM on Amazon EKS: A Practical Guide for High-Performance LLM Inference | [Read here](https://aditmodi.hashnode.dev/deploying-vllm-on-amazon-eks-a-practical-guide-for-high-performance-llm-inference) |
+| December 2025 | A Practical Deep Dive into AWS Trainium & Inferentia2 for High-Performance, Cost-Efficient AI | [Read here](https://aditmodi.hashnode.dev/a-practical-deep-dive-into-aws-trainium-and-inferentia2-for-high-performance-cost-efficient-ai) |
+| November 2025 | EKS Backup with AWS Backup: Finally a Managed Solution for Kubernetes Disaster Recovery | [Read here](https://aditmodi.hashnode.dev/eks-backup-with-aws-backup-finally-a-managed-solution-for-kubernetes-disaster-recovery) |
 | Nov 2025 | Road to re:Invent: Cloud Concepts Made Easy – Blog series | [Read here](https://hashnode.com/@aditmodi24) |
 | Oct 2025 | Amazon Quick Suite – Deep Dive into AWS's Agentic AI Workspace | [Read here](https://hashnode.com/@aditmodi24) |
 | Oct 2025 | Amazon ECS Managed Instances: The Best of Both Worlds for Container Compute | [Read here](https://hashnode.com/@aditmodi24) |
