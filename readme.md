@@ -63,6 +63,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Issue | Date | Title | Link |
 |-------|------|-------|------|
+| #55 | 16 Feb 2026 | Scaling Intelligence: EKS, KV Cache, and System Trade-offs | [Read here](https://everythingaboutcloudtech.substack.com) |
 | #55 | 09 Feb 2026 | From GPU Clusters to Agent Loops: Engineering on Unstable Ground | [Read here](https://everythingaboutcloudtech.substack.com) |
 | #54 | 02 Feb 2026 | Inference, Platforms, and the Cost of Iteration | [Read here](https://everythingaboutcloudtech.substack.com) |
 | #53 | 26 Jan 2026 | The Unseen Layers of Systems | [Read here](https://everythingaboutcloudtech.substack.com) |
