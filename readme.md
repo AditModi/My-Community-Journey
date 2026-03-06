@@ -45,7 +45,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date & Time | Event / Platform | Title / Contribution |
 |------------|------------------|----------------------|
-| TBA 2026   | TBA              | TBA                  |
+| 21 Mar 2026   | AWS Community Day – Pune | **Speaker** – Scaling Custom LLMs on EKS: Training & Inference Infrastructure |
 
 ---
 
@@ -55,7 +55,11 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date          | Event / Org                                        | Activity / Title                                                                                          | Links |
 |--------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------|
+| 2 Mar 2026 | AWS Cloud Club – Parul University | **Speaker** – Delivered a hands-on session on container architectures on AWS, covering ECS, EKS, ECS Express Mode, and EKS Auto Mode; focused on bridging student and industry communities | [LinkedIn Post](#) |
+| 1 Mar 2026 | Community Connect – Vadodara | **Organizer** – Brought together 22 tech communities and 40+ community leaders to connect, collaborate, and strengthen the Vadodara tech ecosystem | [LinkedIn Post](#) |
+| 28 Feb 2026 | AWS Community Day Ahmedabad | **Speaker** – Scaling Custom LLMs on EKS: Trn and Inf2-Powered AI Infrastructure (updated with new architecture and operational learnings) | [Event Page](#) \| [LinkedIn Post](#) |
 | 11 Jan 2026  | AWS UG Vadodara – AWS re:Invent 2025 Recap         | **Speaker & Co-Organizer** – Compute, containers, and networking highlights from re:Invent 2025          | [Event Page](#) \| [LinkedIn Post](#) |
+
 
 ### Writing & Content
 
@@ -63,11 +67,13 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Issue | Date | Title | Link |
 |-------|------|-------|------|
-| #55 | 16 Feb 2026 | Scaling Intelligence: EKS, KV Cache, and System Trade-offs | [Read here](https://everythingaboutcloudtech.substack.com) |
-| #55 | 09 Feb 2026 | From GPU Clusters to Agent Loops: Engineering on Unstable Ground | [Read here](https://everythingaboutcloudtech.substack.com) |
-| #54 | 02 Feb 2026 | Inference, Platforms, and the Cost of Iteration | [Read here](https://everythingaboutcloudtech.substack.com) |
-| #53 | 26 Jan 2026 | The Unseen Layers of Systems | [Read here](https://everythingaboutcloudtech.substack.com) |
-| #52 | 19 Jan 2026 | Compute, Containers & Kubernetes | [Read here](https://everythingaboutcloudtech.substack.com) |
+| #58 | 06 Mar 2026 | Measuring AI Performance: Quantization, GPU Stragglers, and the Cost of “Fast Enough” | [Read here]([https://everythingaboutcloudtech.substack.co](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-472?r=5zrt8y)m) |
+| #57 | 23 Feb 2026 | Operating AI Systems: vLLM, LLM Inference Metrics, and Kubernetes at Scale | [Read here]([https://everythingaboutcloudtech.substack.com](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-29f?r=5zrt8y)) |
+| #56 | 16 Feb 2026 | GPU Utilization, Disaggregated Inference, and the Rise of Agent-Driven Infrastructure | [Read here]([https://everythingaboutcloudtech.substack.com](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-5ac?r=5zrt8y)) |
+| #55 | 09 Feb 2026 | From GPU Clusters to Agent Loops: Engineering on Unstable Ground | [Read here]([https://everythingaboutcloudtech.substack.com](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-4cf?r=5zrt8y)) |
+| #54 | 02 Feb 2026 | Inference, Platforms, and the Cost of Iteration | [Read here]([https://everythingaboutcloudtech.substack.com](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-a9e?r=5zrt8y)) |
+| #53 | 26 Jan 2026 | The Unseen Layers of Systems | [Read here]([https://everythingaboutcloudtech.substack.com](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-669?r=5zrt8y)) |
+| #52 | 19 Jan 2026 | Compute, Containers & Kubernetes | [Read here]([https://everythingaboutcloudtech.substack.com](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-4aa?r=5zrt8y)) |
 
 **Blog Posts**
 
