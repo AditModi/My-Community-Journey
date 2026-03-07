@@ -67,10 +67,10 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Issue | Date | Title | Link |
 |-------|------|-------|------|
-| #58 | 06 Mar 2026 | Measuring AI Performance: Quantization, GPU Stragglers, and the Cost of “Fast Enough” | [Read here](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-472?r=5zrt8y) |
-| #57 | 23 Feb 2026 | Operating AI Systems: vLLM, LLM Inference Metrics, and Kubernetes at Scale | [Read here](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-29f?r=5zrt8y) |
-| #56 | 16 Feb 2026 | GPU Utilization, Disaggregated Inference, and the Rise of Agent-Driven Infrastructure | [Read here](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-5ac?r=5zrt8y) |
-| #55 | 09 Feb 2026 | From GPU Clusters to Agent Loops: Engineering on Unstable Ground | [Read here](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-4cf?r=5zrt8y) |
+| #58 | 06 Mar 2026 | Closing the Gap Between Intuition and Measurement | [Read here](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-472?r=5zrt8y) |
+| #57 | 23 Feb 2026 | The Gap Between 'It Works' and 'It Runs | [Read here](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-29f?r=5zrt8y) |
+| #56 | 16 Feb 2026 | Building Fast, Thinking Slow | [Read here](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-5ac?r=5zrt8y) |
+| #55 | 09 Feb 2026 | Building Platforms at the Speed of Change | [Read here](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-4cf?r=5zrt8y) |
 | #54 | 02 Feb 2026 | Inference, Platforms, and the Cost of Iteration | [Read here](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-a9e?r=5zrt8y) |
 | #53 | 26 Jan 2026 | The Unseen Layers of Systems | [Read here](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-669?r=5zrt8y) |
 | #52 | 19 Jan 2026 | Compute, Containers & Kubernetes | [Read here](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-4aa?r=5zrt8y) |
