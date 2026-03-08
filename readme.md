@@ -79,6 +79,10 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date | Title | Link |
 |------|-------|------|
+| Feb 2026 | EKS Multi-Account Administration: From GitHub Issue to Production Architecture | [Read here](https://aditmodi.hashnode.dev/eks-multi-account-administration-from-github-issue-to-production-architecture) |
+| Feb 2026 | Hybrid Container Orchestration at Scale: Amazon ECS Anywhere with Cross-Region Load Balancing | [Read here](https://aditmodi.hashnode.dev/hybrid-container-orchestration-at-scale-amazon-ecs-anywhere-with-cross-region-load-balancing) |
+| Feb 2026 | Your GPU Training Job Has Been Silently Deadlocking for Months — and Your Scheduler Is the Reason | [Read here](https://aditmodi.hashnode.dev/your-gpu-training-job-has-been-silently-deadlocking-for-months-and-your-scheduler-is-the-reason) |
+| Jan 2026 | SOCI Snapshotter on EKS: Eliminating the 8-Minute GPU Cold Start Nobody Talks About | [Read here](https://aditmodi.hashnode.dev/soci-snapshotter-on-eks-eliminating-the-8-minute-gpu-cold-start-nobody-talks-about) |
 | Jan 2026 | Deploying GPU-Accelerated AI/ML Workloads to Amazon ECS: Traditional vs Managed Instances | [Read here](https://aditmodi.hashnode.dev/deploying-gpu-accelerated-aiml-workloads-to-amazon-ecs-traditional-vs-managed-instances) |
 | Jan 2026 | ECS Task Rebalancing: How AWS Finally Solved a 9-Year-Old Problem | [Read here](https://aditmodi.hashnode.dev/ecs-task-rebalancing-how-aws-finally-solved-a-9-year-old-problem) |
 | Jan 2026 | ECS Linear and Canary Deployments: Finally Native Traffic Shifting Without the Glue Code | [Read here](https://aditmodi.hashnode.dev/ecs-linear-and-canary-deployments-finally-native-traffic-shifting-without-the-glue-code) |
