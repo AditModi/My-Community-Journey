@@ -45,7 +45,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date & Time | Event / Platform | Title / Contribution |
 |------------|------------------|----------------------|
-| 21 Mar 2026   | AWS Community Day – Pune | **Speaker** – Scaling Custom LLMs on EKS: Training & Inference Infrastructure |
+
 
 ---
 
@@ -55,9 +55,10 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date          | Event / Org                                        | Activity / Title                                                                                          | Links |
 |--------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------|
-| 2 Mar 2026 | AWS Cloud Club – Parul University | **Speaker** – Delivered a hands-on session on container architectures on AWS, covering ECS, EKS, ECS Express Mode, and EKS Auto Mode; focused on bridging student and industry communities | [LinkedIn Post](#) |
-| 1 Mar 2026 | Community Connect – Vadodara | **Organizer** – Brought together 22 tech communities and 40+ community leaders to connect, collaborate, and strengthen the Vadodara tech ecosystem | [LinkedIn Post](#) |
-| 28 Feb 2026 | AWS Community Day Ahmedabad | **Speaker** – Scaling Custom LLMs on EKS: Trn and Inf2-Powered AI Infrastructure (updated with new architecture and operational learnings) | [Event Page](#) \| [LinkedIn Post](#) |
+| 21 Mar 2026 | AWS Community Day Pune | **Speaker** – Delivered a session on Custom LLM on EKS using Trainium and Inferentia powered infrastructure; spoke to 700+ attendees on running cost-efficient AI workloads on Kubernetes with AWS silicon | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7443144933194145793/) |
+| 2 Mar 2026 | AWS Cloud Club – Parul University | **Speaker** – Delivered a hands-on session on container architectures on AWS, covering ECS, EKS, ECS Express Mode, and EKS Auto Mode; focused on bridging student and industry communities | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7438078917170663425/) |
+| 1 Mar 2026 | Community Connect – Vadodara | **Organizer** – Brought together 22 tech communities and 40+ community leaders to connect, collaborate, and strengthen the Vadodara tech ecosystem | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7437716522023682048/) |
+| 28 Feb 2026 | AWS Community Day Ahmedabad | **Speaker** – Scaling Custom LLMs on EKS: Trn and Inf2-Powered AI Infrastructure (updated with new architecture and operational learnings) | [Event Page](#) \| [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7437369224513294336/) |
 | Feb 2026 | Global MC – HashiTalks 2026 | Served as MC for HashiCorp's 24-hour global virtual event, facilitating community sessions across time zones covering Terraform, Vault, and platform engineering | [Event Page](https://hashitalks2026.splashthat.com/) | [LinkedIn Post](https://www.linkedin.com/posts/saravanan-gnanaguru_devops-cloud-iac-activity-7430175285519704064-PF6D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBXAnIBFSWZIxrd4Lic6Grv7725KBmvDdI) |
 | 11 Jan 2026  | AWS UG Vadodara – AWS re:Invent 2025 Recap         | **Speaker & Co-Organizer** – Compute, containers, and networking highlights from re:Invent 2025          | [Event Page](#) \| [LinkedIn Post](#) |
 
@@ -68,6 +69,8 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Issue | Date | Title | Link |
 |-------|------|-------|------|
+| #61 | 27 Mar 2026 | Delegation Is Not Abdication | [Read here](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-4c6?r=5zrt8y) |
+| #60 | 20 Mar 2026 | Correctly Configured Is Not Correctly Running | [Read here](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-f8d?r=5zrt8y) |
 | #59 | 13 Mar 2026 | Making Invisible Things Visible Before They Become Expensive | [Read here](https://open.substack.com/pub/everythingaboutcloudtech/p/everything-about-cloud-and-tech-newsletter-735?utm_campaign=post-expanded-share&utm_medium=post%20viewer) |
 | #58 | 06 Mar 2026 | Closing the Gap Between Intuition and Measurement | [Read here](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-472?r=5zrt8y) |
 | #57 | 23 Feb 2026 | The Gap Between 'It Works' and 'It Runs | [Read here](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-29f?r=5zrt8y) |
