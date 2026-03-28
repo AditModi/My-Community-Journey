@@ -65,20 +65,20 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 ### Writing & Content
 
-**Everything About Cloud & Tech – Newsletter**
+**Everything About EKS & AI Infrastructure – Newsletter**
 
 | Issue | Date | Title | Link |
 |-------|------|-------|------|
-| #61 | 27 Mar 2026 | Delegation Is Not Abdication | [Read here](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-4c6?r=5zrt8y) |
-| #60 | 20 Mar 2026 | Correctly Configured Is Not Correctly Running | [Read here](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-f8d?r=5zrt8y) |
-| #59 | 13 Mar 2026 | Making Invisible Things Visible Before They Become Expensive | [Read here](https://open.substack.com/pub/everythingaboutcloudtech/p/everything-about-cloud-and-tech-newsletter-735?utm_campaign=post-expanded-share&utm_medium=post%20viewer) |
-| #58 | 06 Mar 2026 | Closing the Gap Between Intuition and Measurement | [Read here](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-472?r=5zrt8y) |
-| #57 | 23 Feb 2026 | The Gap Between 'It Works' and 'It Runs | [Read here](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-29f?r=5zrt8y) |
-| #56 | 16 Feb 2026 | Building Fast, Thinking Slow | [Read here](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-5ac?r=5zrt8y) |
-| #55 | 09 Feb 2026 | Building Platforms at the Speed of Change | [Read here](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-4cf?r=5zrt8y) |
-| #54 | 02 Feb 2026 | Inference, Platforms, and the Cost of Iteration | [Read here](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-a9e?r=5zrt8y) |
-| #53 | 26 Jan 2026 | The Unseen Layers of Systems | [Read here](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-669?r=5zrt8y) |
-| #52 | 19 Jan 2026 | Compute, Containers & Kubernetes | [Read here](https://everythingaboutcloudtech.substack.com/p/everything-about-cloud-and-tech-newsletter-4aa?r=5zrt8y) |
+| #61 | 27 Mar 2026 | Delegation Is Not Abdication | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-cloud-and-tech-newsletter-4c6?r=5zrt8y) |
+| #60 | 20 Mar 2026 | Correctly Configured Is Not Correctly Running | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-cloud-and-tech-newsletter-f8d?r=5zrt8y) |
+| #59 | 13 Mar 2026 | Making Invisible Things Visible Before They Become Expensive | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-cloud-and-tech-newsletter-735?r=5zrt8y) |
+| #58 | 06 Mar 2026 | Closing the Gap Between Intuition and Measurement | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-cloud-and-tech-newsletter-472?r=5zrt8y) |
+| #57 | 23 Feb 2026 | The Gap Between 'It Works' and 'It Runs | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-cloud-and-tech-newsletter-29f?r=5zrt8y) |
+| #56 | 16 Feb 2026 | Building Fast, Thinking Slow | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-cloud-and-tech-newsletter-5ac?r=5zrt8y) |
+| #55 | 09 Feb 2026 | Building Platforms at the Speed of Change | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-cloud-and-tech-newsletter-4cf?r=5zrt8y) |
+| #54 | 02 Feb 2026 | Inference, Platforms, and the Cost of Iteration | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-cloud-and-tech-newsletter-a9e?r=5zrt8y) |
+| #53 | 26 Jan 2026 | The Unseen Layers of Systems | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-cloud-and-tech-newsletter-669?r=5zrt8y) |
+| #52 | 19 Jan 2026 | Compute, Containers & Kubernetes | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-cloud-and-tech-newsletter-4aa?r=5zrt8y) |
 
 **Blog Posts**
 
