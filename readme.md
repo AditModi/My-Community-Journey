@@ -69,6 +69,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Issue | Date | Title | Link |
 |-------|------|-------|------|
+| #62 | 03 Apr 2026 | Supply Chain, GPU Scheduling, and the Week Inference Got Serious | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure?r=5zrt8y) |
 | #61 | 27 Mar 2026 | Delegation Is Not Abdication | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-cloud-and-tech-newsletter-4c6?r=5zrt8y) |
 | #60 | 20 Mar 2026 | Correctly Configured Is Not Correctly Running | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-cloud-and-tech-newsletter-f8d?r=5zrt8y) |
 | #59 | 13 Mar 2026 | Making Invisible Things Visible Before They Become Expensive | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-cloud-and-tech-newsletter-735?r=5zrt8y) |
@@ -84,6 +85,12 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date | Title | Link |
 |------|-------|------|
+| Mar 2026 | llm-d on EKS: The New Inference Resource Model That Changes How You Think About GPU Routing | [Read here](https://aditmodi.hashnode.dev/llm-d-on-eks-the-new-inference-resource-model-that-changes-how-you-think-about-gpu-routing) | 
+| Mar 2026 | GPU Deadlock on EKS: What Gang Scheduling Actually Is, Why the Default Scheduler Fails You, and Three Ways to Fix It | [Read here](https://aditmodi.hashnode.dev/gpu-deadlock-on-eks-what-gang-scheduling-actually-is-why-the-default-scheduler-fails-you-and-three-ways-to-fix-it) | 
+| Mar 2026 | AWS Community Day Pune 2026 — Notes From a Grateful Attendee and Speaker | [Read here](https://aditmodi.hashnode.dev/aws-community-day-pune-2026-notes-from-a-grateful-attendee-and-speaker) |
+| Mar 2026 | GTC 2026: Day 1 Notes From Someone Who Couldn't Sleep After Watching It | [Read here](https://aditmodi.hashnode.dev/gtc-2026-day-1-notes-from-someone-who-couldn-t-sleep-after-watching-it) | 
+| Mar 2026 | Optimizing LLM Inference at Scale: SGLang and NVIDIA Dynamo on Amazon EKS | [Read here](https://aditmodi.hashnode.dev/optimizing-llm-inference-at-scale-sglang-and-nvidia-dynamo-on-amazon-eks) | 
+| Mar 2026 | The Unified GPU Platform: Running Slurm, Ray, and Kubernetes Inference on a Single EKS Cluster Without Scheduling Chaos | [Read here](https://aditmodi.hashnode.dev/the-unified-gpu-platform-running-slurm-ray-and-kubernetes-inference-on-a-single-eks-cluster-without-scheduling-chaos) | 
 | Feb 2026 | EKS Multi-Account Administration: From GitHub Issue to Production Architecture | [Read here](https://aditmodi.hashnode.dev/eks-multi-account-administration-from-github-issue-to-production-architecture) |
 | Feb 2026 | Hybrid Container Orchestration at Scale: Amazon ECS Anywhere with Cross-Region Load Balancing | [Read here](https://aditmodi.hashnode.dev/hybrid-container-orchestration-at-scale-amazon-ecs-anywhere-with-cross-region-load-balancing) |
 | Feb 2026 | Your GPU Training Job Has Been Silently Deadlocking for Months — and Your Scheduler Is the Reason | [Read here](https://aditmodi.hashnode.dev/your-gpu-training-job-has-been-silently-deadlocking-for-months-and-your-scheduler-is-the-reason) |
