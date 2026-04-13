@@ -45,7 +45,8 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date & Time | Event / Platform | Title / Contribution |
 |------------|------------------|----------------------|
-
+| 22–23 Apr 2026 | AWS Summit Bengaluru | Speaking: We Let Kiro Run Our AWS Platform and Engineers Didn't Touch a Line of Code |
+| 1–5 Jun 2026   | AWS Ambassador Summit, Seattle | Speaking: Beyond vLLM: Distributed LLM Inferencing on AWS |
 
 ---
 
@@ -69,6 +70,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Issue | Date | Title | Link |
 |-------|------|-------|------|
+| #63 | 13 Apr 2026 | The People Who Held the Load | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-752) |
 | #62 | 03 Apr 2026 | Supply Chain, GPU Scheduling, and the Week Inference Got Serious | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure?r=5zrt8y) |
 | #61 | 27 Mar 2026 | Delegation Is Not Abdication | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-cloud-and-tech-newsletter-4c6?r=5zrt8y) |
 | #60 | 20 Mar 2026 | Correctly Configured Is Not Correctly Running | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-cloud-and-tech-newsletter-f8d?r=5zrt8y) |
@@ -85,6 +87,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date | Title | Link |
 |------|-------|------|
+| Apr 2026 | NVIDIA's Two Gifts to Kubernetes: DRA and AICR — What They Mean for Your EKS GPU Platform | [Read here](https://aditmodi.hashnode.dev/nvidia-s-two-gifts-to-kubernetes-dra-and-aicr-what-they-mean-for-your-eks-gpu-platform) |
 | Mar 2026 | llm-d on EKS: The New Inference Resource Model That Changes How You Think About GPU Routing | [Read here](https://aditmodi.hashnode.dev/llm-d-on-eks-the-new-inference-resource-model-that-changes-how-you-think-about-gpu-routing) | 
 | Mar 2026 | GPU Deadlock on EKS: What Gang Scheduling Actually Is, Why the Default Scheduler Fails You, and Three Ways to Fix It | [Read here](https://aditmodi.hashnode.dev/gpu-deadlock-on-eks-what-gang-scheduling-actually-is-why-the-default-scheduler-fails-you-and-three-ways-to-fix-it) | 
 | Mar 2026 | AWS Community Day Pune 2026 — Notes From a Grateful Attendee and Speaker | [Read here](https://aditmodi.hashnode.dev/aws-community-day-pune-2026-notes-from-a-grateful-attendee-and-speaker) |
