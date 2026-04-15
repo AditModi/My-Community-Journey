@@ -18,7 +18,7 @@ This repository is my **source of truth** for how I give back to the tech commun
   - IaC & Automation: Drift-free, repeatable deployments.
   - LLM & AI on AWS: EKS inference, RAG pipelines, GPU optimization, scalable agentic workflows.
 - **Channels:**
-  - Newsletter – [*Everything About Cloud & Tech*](https://everythingaboutcloudtech.substack.com)
+  - Newsletter – [*Everything About EKS & AI Infrastructure*](https://everythingaboutcloudtech.substack.com)
   - Blogs – [100+ posts on AWS, containers, and cloud-native architectures](https://hashnode.com/@aditmodi24)
   - Meetups & Conferences – across India, APAC, and global virtual events
   - Mentoring – students, first-time speakers, and AWS builders
