@@ -58,8 +58,8 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date          | Event / Org                                        | Activity / Title                                                                                          | Links |
 |--------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------|
-| 11 Apr 2026 | AWS Clinic by AWS User Group Vadodara — Co-organizer & Speaker (EKS, Containers, AI Infra) | [Event Page](https://www.meetup.com/aws-community-vadodara/events/313974303/) |
-| 2 Apr 2026  | AWS Ambassador Tech Talk — AWS Trainium 3/4: Purpose-Built AI Acceleration | Q2 2026 Series × Analytics India Magazine |
+| 11 Apr 2026 | AWS Clinic by AWS User Group Vadodara | AWS Clinic by AWS User Group Vadodara — Co-organizer & Speaker (EKS, Containers, AI Infra) | [Event Page](https://www.meetup.com/aws-community-vadodara/events/313974303/) |
+| 2 Apr 2026  | AWS Ambassador Tech Talk | AWS Ambassador Tech Talk — AWS Trainium 3/4: Purpose-Built AI Acceleration | Q2 2026 Series × Analytics India Magazine |
 | 21 Mar 2026 | AWS Community Day Pune | **Speaker** – Delivered a session on Custom LLM on EKS using Trainium and Inferentia powered infrastructure; spoke to 700+ attendees on running cost-efficient AI workloads on Kubernetes with AWS silicon | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7443144933194145793/) |
 | 2 Mar 2026 | AWS Cloud Club – Parul University | **Speaker** – Delivered a hands-on session on container architectures on AWS, covering ECS, EKS, ECS Express Mode, and EKS Auto Mode; focused on bridging student and industry communities | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7438078917170663425/) |
 | 1 Mar 2026 | Community Connect – Vadodara | **Organizer** – Brought together 22 tech communities and 40+ community leaders to connect, collaborate, and strengthen the Vadodara tech ecosystem | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7437716522023682048/) |
