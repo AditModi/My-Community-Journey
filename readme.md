@@ -74,6 +74,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Issue | Date | Title | Link |
 |-------|------|-------|------|
+| #64 | 18 Apr 2026 | The Managed Layer Keeps Getting Lower | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-743) |
 | #63 | 13 Apr 2026 | The People Who Held the Load | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-752) |
 | #62 | 03 Apr 2026 | Supply Chain, GPU Scheduling, and the Week Inference Got Serious | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure?r=5zrt8y) |
 | #61 | 27 Mar 2026 | Delegation Is Not Abdication | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-cloud-and-tech-newsletter-4c6?r=5zrt8y) |
