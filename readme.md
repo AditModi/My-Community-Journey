@@ -45,7 +45,6 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date & Time | Event / Platform | Title / Contribution |
 |------------|------------------|----------------------|
-| 22–23 Apr 2026 | AWS Summit Bengaluru | Speaking: We Let Kiro Run Our AWS Platform and Engineers Didn't Touch a Line of Code |
 | 1–5 Jun 2026   | AWS Ambassador Summit, Seattle | Speaking: Beyond vLLM: Distributed LLM Inferencing on AWS |
 | 22–26 Jun 2026 | PlatformCon 2026 | Speaking: Same Code, Same GPUs, Same Result: Our Kubernetes Platform Story |
 | 22–26 Jun 2026 | PlatformCon 2026 | Speaking: Building a Hybrid AI Platform with Amazon EKS for Platform Engineering Teams |
@@ -58,6 +57,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date          | Event / Org                                        | Activity / Title                                                                                          | Links |
 |--------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------|
+| 22–23 Apr 2026 | AWS Summit Bengaluru | Speaking: We Let Kiro Run Our AWS Platform and Engineers Didn't Touch a Line of Code | [Linkedin](https://www.linkedin.com/posts/adit-n-modi_aws-awssummit-awssummitbengaluru2026-share-7451217597351563264-hF7z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBXAnIBFSWZIxrd4Lic6Grv7725KBmvDdI) |
 | 11 Apr 2026 | AWS Clinic by AWS User Group Vadodara | AWS Clinic by AWS User Group Vadodara — Co-organizer & Speaker (EKS, Containers, AI Infra) | [Event Page](https://www.meetup.com/aws-community-vadodara/events/313974303/) |
 | 2 Apr 2026  | AWS Ambassador Tech Talk | AWS Ambassador Tech Talk — AWS Trainium 3/4: Purpose-Built AI Acceleration | Q2 2026 Series × Analytics India Magazine |
 | 21 Mar 2026 | AWS Community Day Pune | **Speaker** – Delivered a session on Custom LLM on EKS using Trainium and Inferentia powered infrastructure; spoke to 700+ attendees on running cost-efficient AI workloads on Kubernetes with AWS silicon | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7443144933194145793/) |
@@ -74,6 +74,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Issue | Date | Title | Link |
 |-------|------|-------|------|
+| #65 | 23 Apr 2026 | The Hardware Is Still Real | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-355) |
 | #64 | 18 Apr 2026 | The Managed Layer Keeps Getting Lower | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-743) |
 | #63 | 13 Apr 2026 | The People Who Held the Load | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-752) |
 | #62 | 03 Apr 2026 | Supply Chain, GPU Scheduling, and the Week Inference Got Serious | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure?r=5zrt8y) |
