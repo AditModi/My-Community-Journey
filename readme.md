@@ -74,6 +74,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Issue | Date | Title | Link |
 |-------|------|-------|------|
+| #67 | 09 May 2026 | The Infrastructure Matures While the Kernel Shows Its Seams | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-e81?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #66 | 01 May 2026 | Curiosity Is the Infrastructure | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-734?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #65 | 23 Apr 2026 | The Hardware Is Still Real | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-355) |
 | #64 | 18 Apr 2026 | The Managed Layer Keeps Getting Lower | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-743) |
