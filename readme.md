@@ -45,6 +45,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date & Time | Event / Platform | Title / Contribution |
 |------------|------------------|----------------------|
+| May 2026       | AWS BESA YT Channel | From Curious Engineer to AWS Community Builder |
 | 1–5 Jun 2026   | AWS Ambassador Summit, Seattle | Speaking: Beyond vLLM: Distributed LLM Inferencing on AWS |
 | 22–26 Jun 2026 | PlatformCon 2026 | Speaking: Same Code, Same GPUs, Same Result: Our Kubernetes Platform Story |
 | 22–26 Jun 2026 | PlatformCon 2026 | Speaking: Building a Hybrid AI Platform with Amazon EKS for Platform Engineering Teams |
