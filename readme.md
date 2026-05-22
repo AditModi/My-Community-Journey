@@ -49,6 +49,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 | 1–5 Jun 2026   | AWS Ambassador Summit, Seattle | Speaking: Beyond vLLM: Distributed LLM Inferencing on AWS |
 | 22–26 Jun 2026 | PlatformCon 2026 | Speaking: Same Code, Same GPUs, Same Result: Our Kubernetes Platform Story |
 | 22–26 Jun 2026 | PlatformCon 2026 | Speaking: Building a Hybrid AI Platform with Amazon EKS for Platform Engineering Teams |
+| 11 July 2026 | AWS Community Day 2026 | Speaking: EKS Capabilities: Managed Argo CD, ACK, and KRO — What Actually Changed for Platform Teams |
 
 ---
 
@@ -75,6 +76,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Issue | Date | Title | Link |
 |-------|------|-------|------|
+| #69 | 23 May 2026 | "Do the Work. Share It Honestly. Let the Systems Figure Themselves Out." | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-20e?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #68 | 15 May 2026 | Infrastructure Doesn't Surprise You When You Know It Well | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-d3a?r=5zrt8y) |
 | #67 | 09 May 2026 | The Infrastructure Matures While the Kernel Shows Its Seams | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-e81?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #66 | 01 May 2026 | Curiosity Is the Infrastructure | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-734?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
