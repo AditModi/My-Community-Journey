@@ -76,6 +76,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Issue | Date | Title | Link |
 |-------|------|-------|------|
+| #70 | 29 May 2026 | The Return Isn't Linear | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-86e?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #69 | 23 May 2026 | "Do the Work. Share It Honestly. Let the Systems Figure Themselves Out." | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-20e?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #68 | 15 May 2026 | Infrastructure Doesn't Surprise You When You Know It Well | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-d3a?r=5zrt8y) |
 | #67 | 09 May 2026 | The Infrastructure Matures While the Kernel Shows Its Seams | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-e81?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
