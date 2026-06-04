@@ -45,8 +45,6 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date & Time | Event / Platform | Title / Contribution |
 |------------|------------------|----------------------|
-| May 2026       | AWS BESA YT Channel | From Curious Engineer to AWS Community Builder |
-| 1–5 Jun 2026   | AWS Ambassador Summit, Seattle | Speaking: Beyond vLLM: Distributed LLM Inferencing on AWS |
 | 22–26 Jun 2026 | PlatformCon 2026 | Speaking: Same Code, Same GPUs, Same Result: Our Kubernetes Platform Story |
 | 22–26 Jun 2026 | PlatformCon 2026 | Speaking: Building a Hybrid AI Platform with Amazon EKS for Platform Engineering Teams |
 | 11 July 2026 | AWS Community Day 2026 | Speaking: EKS Capabilities: Managed Argo CD, ACK, and KRO — What Actually Changed for Platform Teams |
@@ -59,6 +57,8 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date          | Event / Org                                        | Activity / Title                                                                                          | Links |
 |--------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------|
+| 1–5 Jun 2026   | AWS Ambassador Summit, Seattle | Speaking: Beyond vLLM: Distributed LLM Inferencing on AWS |
+| May 2026       | AWS BESA YT Channel | From Curious Engineer to AWS Community Builder |
 | 22–23 Apr 2026 | AWS Summit Bengaluru | Speaking: We Let Kiro Run Our AWS Platform and Engineers Didn't Touch a Line of Code | [Linkedin](https://www.linkedin.com/posts/adit-n-modi_aws-awssummit-awssummitbengaluru2026-share-7451217597351563264-hF7z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBXAnIBFSWZIxrd4Lic6Grv7725KBmvDdI) |
 | 11 Apr 2026 | AWS Clinic by AWS User Group Vadodara | AWS Clinic by AWS User Group Vadodara — Co-organizer & Speaker (EKS, Containers, AI Infra) | [Event Page](https://www.meetup.com/aws-community-vadodara/events/313974303/) |
 | 2 Apr 2026  | AWS Ambassador Tech Talk | AWS Ambassador Tech Talk — AWS Trainium 3/4: Purpose-Built AI Acceleration | Q2 2026 Series × Analytics India Magazine |
@@ -76,6 +76,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Issue | Date | Title | Link |
 |-------|------|-------|------|
+| #71 | 06 Jun 2026 | The Primitives Don't Wait for You to Be Ready | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-77a?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #70 | 29 May 2026 | The Return Isn't Linear | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-86e?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #69 | 23 May 2026 | "Do the Work. Share It Honestly. Let the Systems Figure Themselves Out." | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-20e?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #68 | 15 May 2026 | Infrastructure Doesn't Surprise You When You Know It Well | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-d3a?r=5zrt8y) |
