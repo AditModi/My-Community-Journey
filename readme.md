@@ -76,6 +76,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Issue | Date | Title | Link |
 |-------|------|-------|------|
+| #72 | 12 Jun 2026 | Curiosity Is a Practice, Not a Trait | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-12a) |
 | #71 | 06 Jun 2026 | The Primitives Don't Wait for You to Be Ready | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-77a?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #70 | 29 May 2026 | The Return Isn't Linear | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-86e?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #69 | 23 May 2026 | "Do the Work. Share It Honestly. Let the Systems Figure Themselves Out." | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-20e?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
