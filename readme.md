@@ -58,7 +58,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 | Date          | Event / Org                                        | Activity / Title                                                                                          | Links |
 |--------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------|
 | 1–5 Jun 2026   | AWS Ambassador Summit, Seattle | Speaking: Beyond vLLM: Distributed LLM Inferencing on AWS |
-| May 2026       | AWS BESA YT Channel | From Curious Engineer to AWS Community Builder |
+| May 2026       | AWS BESA YT Channel | From Curious Engineer to AWS Community Builder | [Youtube](https://www.youtube.com/watch?si=nn18MWol7MbumaBf&v=pO3rw8n6cdI&feature=youtu.be) |
 | 22–23 Apr 2026 | AWS Summit Bengaluru | Speaking: We Let Kiro Run Our AWS Platform and Engineers Didn't Touch a Line of Code | [Linkedin](https://www.linkedin.com/posts/adit-n-modi_aws-awssummit-awssummitbengaluru2026-share-7451217597351563264-hF7z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBXAnIBFSWZIxrd4Lic6Grv7725KBmvDdI) |
 | 11 Apr 2026 | AWS Clinic by AWS User Group Vadodara | AWS Clinic by AWS User Group Vadodara — Co-organizer & Speaker (EKS, Containers, AI Infra) | [Event Page](https://www.meetup.com/aws-community-vadodara/events/313974303/) |
 | 2 Apr 2026  | AWS Ambassador Tech Talk | AWS Ambassador Tech Talk — AWS Trainium 3/4: Purpose-Built AI Acceleration | Q2 2026 Series × Analytics India Magazine |
