@@ -45,9 +45,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date & Time | Event / Platform | Title / Contribution |
 |------------|------------------|----------------------|
-| 22–26 Jun 2026 | PlatformCon 2026 | **Speaker** - Same Code, Same GPUs, Same Result: Our Kubernetes Platform Story |
-| 22–26 Jun 2026 | PlatformCon 2026 | **Speaker** - Building a Hybrid AI Platform with Amazon EKS for Platform Engineering Teams |
-| 11 July 2026 | AWS Community Day 2026 | **Speaker** - EKS Capabilities: Managed Argo CD, ACK, and KRO — What Actually Changed for Platform Teams |
+| 11 July 2026 | AWS Community Day Bengaluru 2026 | **Speaker** - EKS Capabilities: Managed Argo CD, ACK, and KRO — What Actually Changed for Platform Teams |
 
 ---
 
@@ -57,6 +55,9 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date          | Event / Org                                        | Activity / Title                                                                                          | Links |
 |--------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------|
+| 22–26 Jun 2026 | PlatformCon 2026 | **Speaker** - Same Code, Same GPUs, Same Result: Our Kubernetes Platform Story | [Session on YT](https://youtu.be/CQIFbaI8PhA) |
+| 22–26 Jun 2026 | PlatformCon 2026 | **Speaker** - Building a Hybrid AI Platform with Amazon EKS for Platform Engineering Teams | [Session on YT](https://youtu.be/Tx_fvCTkXrM) |
+| 20 Jun 2026 | CB Connect Vadodara | Co-Organizer & Speaker - AWS Community Builder Unconference | [AWS UG Vadodara](https://www.meetup.com/aws-community-vadodara/events/315036627/) |
 | 1–5 Jun 2026   | AWS Ambassador Summit, Seattle | **Speaker** - Beyond vLLM: Distributed LLM Inferencing on AWS |
 | May 2026       | AWS BESA YT Channel | **Podcast Guest Speaker** - From Curious Engineer to AWS Community Builder | [Youtube](https://www.youtube.com/watch?si=nn18MWol7MbumaBf&v=pO3rw8n6cdI&feature=youtu.be) |
 | 22–23 Apr 2026 | AWS Summit Bengaluru | **Speaker** - Session on "We Let Kiro Run Our AWS Platform and Engineers Didn't Touch a Line of Code" | [Linkedin](https://www.linkedin.com/posts/adit-n-modi_aws-awssummit-awssummitbengaluru2026-share-7451217597351563264-hF7z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBXAnIBFSWZIxrd4Lic6Grv7725KBmvDdI) |
@@ -76,6 +77,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Issue | Date | Title | Link |
 |-------|------|-------|------|
+| #74 | 27 Jun 2026 | The Best Advice Costs the Giver Nothing | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-57a?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #73 | 20 Jun 2026 | Judgment Doesn't Compress | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-ae5?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #72 | 12 Jun 2026 | Curiosity Is a Practice, Not a Trait | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-12a) |
 | #71 | 06 Jun 2026 | The Primitives Don't Wait for You to Be Ready | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-77a?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
