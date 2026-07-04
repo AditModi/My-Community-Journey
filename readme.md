@@ -126,6 +126,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 | Date | Contribution | Links |
 |------|--------------|-------|
 | Coming Soon, 2026 | **Author** – Book on Amazon EKS and production Kubernetes on AWS | TBA |
+| Coming Soon, 2026 | **Co-Author** – Book on AI/ML and Agentic AI on EKS | TBA |
 | Coming Soon, 2026 | **Technical Reviewer** – Technical reviewer for an upcoming AWS EKS book | TBA |
 
 ---
