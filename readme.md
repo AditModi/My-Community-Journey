@@ -45,7 +45,6 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date & Time | Event / Platform | Title / Contribution |
 |------------|------------------|----------------------|
-| 11 July 2026 | AWS Community Day Bengaluru 2026 | **Speaker** - EKS Capabilities: Managed Argo CD, ACK, and KRO — What Actually Changed for Platform Teams |
 
 ---
 
@@ -55,6 +54,8 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date          | Event / Org                                        | Activity / Title                                                                                          | Links |
 |--------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------|
+| 11 July 2026 | AWS Community Day Bengaluru 2026 | **Speaker** - EKS Capabilities: Managed Argo CD, ACK, and KRO — What Actually Changed for Platform Teams | [ACD BLR 2026](https://acd.awsugblr.in/) |
+| 11 July 2026 | AWS Community Day Bengaluru 2026 | **Moderator and Co-Host** - Architecture Clinic Experience | [ACD BLR 2026](https://acd.awsugblr.in/) |
 | 22–26 Jun 2026 | PlatformCon 2026 | **Speaker** - Same Code, Same GPUs, Same Result: Our Kubernetes Platform Story | [Session on YT](https://youtu.be/CQIFbaI8PhA) |
 | 22–26 Jun 2026 | PlatformCon 2026 | **Speaker** - Building a Hybrid AI Platform with Amazon EKS for Platform Engineering Teams | [Session on YT](https://youtu.be/Tx_fvCTkXrM) |
 | 20 Jun 2026 | CB Connect Vadodara | Co-Organizer & Speaker - AWS Community Builder Unconference | [AWS UG Vadodara](https://www.meetup.com/aws-community-vadodara/events/315036627/) |
@@ -77,6 +78,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Issue | Date | Title | Link |
 |-------|------|-------|------|
+| #76 | 12 Jul 2026 | The Boundary Comes Back | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-dd7?r=5zrt8y) |
 | #75 | 04 Jul 2026 | The Job That Doesn't Show Up in a Keynote | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-bce?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #74 | 27 Jun 2026 | The Best Advice Costs the Giver Nothing | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-57a?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #73 | 20 Jun 2026 | Judgment Doesn't Compress | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-ae5?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
