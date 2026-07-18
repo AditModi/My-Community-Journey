@@ -45,6 +45,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date & Time | Event / Platform | Title / Contribution |
 |------------|------------------|----------------------|
+| 12 Sept 2026 | AWS Community Day Vadodara 2026 | **Co-organizer** | [ACD Vadodara 2026](https://acd26.awsugvad.in/) |
 
 ---
 
@@ -78,6 +79,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Issue | Date | Title | Link |
 |-------|------|-------|------|
+| #77 | 18 Jul 2026 | The Week Infrastructure Learned to Act Without Asking | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-207?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #76 | 12 Jul 2026 | The Boundary Comes Back | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-dd7?r=5zrt8y) |
 | #75 | 04 Jul 2026 | The Job That Doesn't Show Up in a Keynote | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-bce?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #74 | 27 Jun 2026 | The Best Advice Costs the Giver Nothing | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-57a?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
