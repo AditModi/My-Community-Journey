@@ -136,6 +136,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 | Sept, 2026 | **Author** – Book on "Container on AWS" | TBA |
 | Nov, 2026 | **Co-Author** – Book on "AI/ML and Agentic AI on EKS" | TBA |
 | Oct/Nov, 2026 | **Technical Reviewer** – Technical reviewer for a book: "Mastering AWS EKS, Second Edition" | TBA |
+| Dec, 2026 | **Author** – Book on "Sandboxed: Securing Autonomous AI Agents on Kubernetes" | TBA |
 
 ---
 
