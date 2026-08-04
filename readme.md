@@ -48,8 +48,8 @@ This repository is my **source of truth** for how I give back to the tech commun
 | 8 Aug 2026 | AWS User Group Vadodara | **Co-Organizer** - Free In-Person Meetup: A Year of Kiro — Power, Steering, Hooks & More | [AWS UG Vadodara](https://www.meetup.com/aws-community-vadodara/events/315734424/) |
 | 15 Aug 2026 | AWS User Group Vadodara | **Co-Organizer** - Free In-person Hackathon: Code with Kiro - part of UG Builder Series | [AWS UG Vadodara](https://www.meetup.com/aws-community-vadodara/events/315733054/) |
 | 12 Sept 2026 | AWS Community Day Vadodara 2026 | **Co-organizer** | [ACD Vadodara 2026](https://acd26.awsugvad.in/) |
-| 1 Oct 2026 | KCPCon — "GPU as a Platform Service: Multi-Tenancy with kcp" | **Speaker** | [KCPCon 2026](https://community2.cncf.io/virtual-project-events-hosted-by-cncf/) |
-| 30 Nov – 4 Dec 2026 | AWS re:Invent 2026 — Chalk Talk | **Speaker** | [AWS re:Invent 2026](https://aws.amazon.com/events/reinvent/) |
+| 1 Oct 2026 | KCPCon 2026 | **Speaker** - "GPU as a Platform Service: Multi-Tenancy with kcp" | [KCPCon 2026](https://community2.cncf.io/virtual-project-events-hosted-by-cncf/) |
+| 30 Nov – 4 Dec 2026 | AWS re:Invent 2026 | **Speaker** - Chalk Talk on EKS | [AWS re:Invent 2026](https://aws.amazon.com/events/reinvent/) |
 
 ---
 
