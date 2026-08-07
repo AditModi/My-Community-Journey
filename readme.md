@@ -86,6 +86,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Issue | Date | Title | Link |
 |-------|------|-------|------|
+| #80 | 07 Aug 2026 | The Number You're Already Watching Is Rarely the One That Matters | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-ef0) |
 | #79 | 31 Jul 2026 | Prove It, Don't Assume It | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-7db?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #78 | 24 Jul 2026 | It Worked Every Time, Until It Didn't | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-914?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #77 | 18 Jul 2026 | The Week Infrastructure Learned to Act Without Asking | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-207?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
