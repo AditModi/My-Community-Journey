@@ -45,8 +45,6 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date & Time | Event / Platform | Title / Contribution |
 |------------|------------------|----------------------|
-| 8 Aug 2026 | AWS User Group Vadodara | **Co-Organizer** - Free In-Person Meetup: A Year of Kiro — Power, Steering, Hooks & More | [AWS UG Vadodara](https://www.meetup.com/aws-community-vadodara/events/315734424/) |
-| 15 Aug 2026 | AWS User Group Vadodara | **Co-Organizer** - Free In-person Hackathon: Code with Kiro - part of UG Builder Series | [AWS UG Vadodara](https://www.meetup.com/aws-community-vadodara/events/315733054/) |
 | 12 Sept 2026 | AWS Community Day Vadodara 2026 | **Co-organizer** | [ACD Vadodara 2026](https://acd26.awsugvad.in/) |
 | 1 Oct 2026 | KCPCon 2026 | **Speaker** - "GPU as a Platform Service: Multi-Tenancy with kcp" | [KCPCon 2026](https://community2.cncf.io/virtual-project-events-hosted-by-cncf/) |
 | 30 Nov – 4 Dec 2026 | AWS re:Invent 2026 | **Speaker** - Chalk Talk on EKS | [AWS re:Invent 2026](https://aws.amazon.com/events/reinvent/) |
@@ -59,6 +57,8 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date          | Event / Org                                        | Activity / Title                                                                                          | Links |
 |--------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------|
+| 15 Aug 2026 | AWS User Group Vadodara | **Co-Organizer** - Free In-person Hackathon: Code with Kiro - part of UG Builder Series | [AWS UG Vadodara](https://www.meetup.com/aws-community-vadodara/events/315733054/) |
+| 8 Aug 2026 | AWS User Group Vadodara | **Co-Organizer** - Free In-Person Meetup: A Year of Kiro — Power, Steering, Hooks & More | [AWS UG Vadodara](https://www.meetup.com/aws-community-vadodara/events/315734424/) |
 | 11 July 2026 | AWS User Group Vadodara | **Co-Organizer** - Free In-person Meetup: The Data Layer Behind Every Good AI Agent | [AWS UG Vadodara](https://www.meetup.com/aws-community-vadodara/events/315493516/) |
 | 11 July 2026 | AWS Community Day Bengaluru 2026 | **Speaker** - EKS Capabilities: Managed Argo CD, ACK, and KRO — What Actually Changed for Platform Teams | [ACD BLR 2026](https://acd.awsugblr.in/) |
 | 11 July 2026 | AWS Community Day Bengaluru 2026 | **Moderator and Co-Host** - Architecture Clinic Experience | [ACD BLR 2026](https://acd.awsugblr.in/) |
@@ -86,6 +86,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Issue | Date | Title | Link |
 |-------|------|-------|------|
+| #81 | 15 Aug 2026 | Asking For A Thing And Enforcing It Are Two Different Jobs | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-fe3?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #80 | 07 Aug 2026 | The Number You're Already Watching Is Rarely the One That Matters | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-ef0) |
 | #79 | 31 Jul 2026 | Prove It, Don't Assume It | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-7db?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #78 | 24 Jul 2026 | It Worked Every Time, Until It Didn't | [Read here](https://open.substack.com/pub/everythingabouteksandai/p/everything-about-eks-and-ai-infrastructure-914?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
