@@ -15,8 +15,9 @@ This repository is my **source of truth** for how I give back to the tech commun
 - **Focus Areas:**
   - AWS Compute & Containers: Reliable EKS/ECS workloads, autoscaling with Karpenter, immutable infrastructure with Bottlerocket.
   - Kubernetes & Reliability: Cluster debugging, pod scheduling, safe rollouts under load.
+  - Everything EKS & Agentic AI on EKS: Production LLM/agent deployment on EKS (Kimi K3, open-weight models), agent orchestration, RAG pipelines, GPU-optimized inference — the core theme across my newsletter and upcoming books
+  - Platform Engineering & Sandboxing: Multi-tenant platform design, secure agent sandboxes, self-service developer platforms on EKS
   - IaC & Automation: Drift-free, repeatable deployments.
-  - LLM & AI on AWS: EKS inference, RAG pipelines, GPU optimization, scalable agentic workflows.
 - **Channels:**
   - Newsletter – [*Everything About EKS & AI Infrastructure*](https://everythingaboutcloudtech.substack.com)
   - Blogs – [100+ posts on AWS, containers, and cloud-native architectures](https://hashnode.com/@aditmodi24)
