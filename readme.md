@@ -90,6 +90,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Issue | Date | Title | Link |
 |-------|------|-------|------|
+| #83 | 28 Aug 2026 | Every Fix Starts With Admitting You Were Wrong | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-3aa?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #82 | 21 Aug 2026 | Memory Decides What You Can Serve | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-36f?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #81 | 15 Aug 2026 | Asking For A Thing And Enforcing It Are Two Different Jobs | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-fe3?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #80 | 07 Aug 2026 | The Number You're Already Watching Is Rarely the One That Matters | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-ef0) |
