@@ -44,13 +44,13 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 ## Up Next
 
-| Date & Time | Event / Platform | Title / Contribution |
-|------------|------------------|----------------------|----------------------|
+| Date          | Event / Org                                        | Activity / Title                                                                                          | Links |
+|--------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------|
 | 12 Sept 2026 | AWS Community Day Vadodara 2026 | **Co-organizer** | [ACD Vadodara 2026](https://acd26.awsugvad.in/) |
 | 1 Oct 2026 | KCPCon 2026 | **Speaker** - "GPU as a Platform Service: Multi-Tenancy with kcp" | [KCPCon 2026](https://community2.cncf.io/virtual-project-events-hosted-by-cncf/) |
-| 26–29 Oct 2026 |  IBM TechXchange 2026 - Atlanta (USA) | **Speaker** | [Securing Clinical AI: watsonx Orchestrate on OpenShift with Vault and Vault Radar](https://reg.tools.ibm.com/flow/ibm/techxchange26/sessioncatalog/page/sessioncatalog/session/1773931463996001zwhu) | Technology Breakout Session |
-| 26–29 Oct 2026 |  IBM TechXchange 2026 - Atlanta (USA) | **Speaker** | [Lights, Camera, Nomad: GPU-Accelerated AI for Media Workloads at Scale](https://reg.tools.ibm.com/flow/ibm/techxchange26/sessioncatalog/page/sessioncatalog/session/1773931783736001hp8g) | Tech Talk |
-| 26–29 Oct 2026 |  IBM TechXchange 2026 - Atlanta (USA) | **Speaker** | [One Malicious PyPI Package. 33,688 AI Deployments. Every Credential Gone](https://reg.tools.ibm.com/flow/ibm/techxchange26/sessioncatalog/page/sessioncatalog/session/1773931783736001hp8g) | Technology Breakout Session |
+| 26–29 Oct 2026 |  IBM TechXchange 2026 - Atlanta (USA) | **Speaker** - Securing Clinical AI: watsonx Orchestrate on OpenShift with Vault and Vault Radar | [IBM Event](https://reg.tools.ibm.com/flow/ibm/techxchange26/sessioncatalog/page/sessioncatalog/session/1773931463996001zwhu) | Technology Breakout Session |
+| 26–29 Oct 2026 |  IBM TechXchange 2026 - Atlanta (USA) | **Speaker** - Lights, Camera, Nomad: GPU-Accelerated AI for Media Workloads at Scale | [IBM Event](https://reg.tools.ibm.com/flow/ibm/techxchange26/sessioncatalog/page/sessioncatalog/session/1773931783736001hp8g) | Tech Talk |
+| 26–29 Oct 2026 |  IBM TechXchange 2026 - Atlanta (USA) | **Speaker** - One Malicious PyPI Package. 33,688 AI Deployments. Every Credential Gone | [IBM Event](https://reg.tools.ibm.com/flow/ibm/techxchange26/sessioncatalog/page/sessioncatalog/session/1773931783736001hp8g) | Technology Breakout Session |
 | 30 Nov – 4 Dec 2026 | AWS re:Invent 2026 - Las Vegas (USA) | **Speaker** - Chalk Talk on EKS | [AWS re:Invent 2026](https://aws.amazon.com/events/reinvent/) |
 
 ---
