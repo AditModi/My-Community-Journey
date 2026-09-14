@@ -46,7 +46,6 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date          | Event / Org                                        | Activity / Title                                                                                          | Links |
 |--------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------|
-| 12 Sept 2026 | AWS Community Day Vadodara 2026 | **Co-organizer** | [ACD Vadodara 2026](https://acd26.awsugvad.in/) |
 | 1 Oct 2026 | KCPCon 2026 | **Speaker** - "GPU as a Platform Service: Multi-Tenancy with kcp" | [KCPCon 2026](https://community2.cncf.io/virtual-project-events-hosted-by-cncf/) |
 | 26–29 Oct 2026 |  IBM TechXchange 2026 - Atlanta (USA) | **Speaker** - Securing Clinical AI: watsonx Orchestrate on OpenShift with Vault and Vault Radar | [IBM Event](https://reg.tools.ibm.com/flow/ibm/techxchange26/sessioncatalog/page/sessioncatalog/session/1773931463996001zwhu) | Technology Breakout Session |
 | 26–29 Oct 2026 |  IBM TechXchange 2026 - Atlanta (USA) | **Speaker** - Lights, Camera, Nomad: GPU-Accelerated AI for Media Workloads at Scale | [IBM Event](https://reg.tools.ibm.com/flow/ibm/techxchange26/sessioncatalog/page/sessioncatalog/session/1773931783736001hp8g) | Tech Talk |
@@ -61,6 +60,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date          | Event / Org                                        | Activity / Title                                                                                          | Links |
 |--------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------|
+| 12 Sept 2026 | AWS Community Day Vadodara 2026 | **Co-organizer** | [ACD Vadodara 2026](https://acd26.awsugvad.in/) |
 | 15 Aug 2026 | AWS User Group Vadodara | **Co-Organizer** - Free In-person Hackathon: Code with Kiro - part of UG Builder Series | [AWS UG Vadodara](https://www.meetup.com/aws-community-vadodara/events/315733054/) |
 | 8 Aug 2026 | AWS User Group Vadodara | **Co-Organizer** - Free In-Person Meetup: A Year of Kiro — Power, Steering, Hooks & More | [AWS UG Vadodara](https://www.meetup.com/aws-community-vadodara/events/315734424/) |
 | 11 July 2026 | AWS User Group Vadodara | **Co-Organizer** - Free In-person Meetup: The Data Layer Behind Every Good AI Agent | [AWS UG Vadodara](https://www.meetup.com/aws-community-vadodara/events/315493516/) |
