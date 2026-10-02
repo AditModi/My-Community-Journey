@@ -46,7 +46,6 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date          | Event / Org                                        | Activity / Title                                                                                          | Links |
 |--------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------|
-| 1 Oct 2026 | KCPCon 2026 | **Speaker** - "GPU as a Platform Service: Multi-Tenancy with kcp" | [KCPCon 2026](https://community2.cncf.io/virtual-project-events-hosted-by-cncf/) |
 | 26–29 Oct 2026 |  IBM TechXchange 2026 - Atlanta (USA) | **Speaker** - Securing Clinical AI: watsonx Orchestrate on OpenShift with Vault and Vault Radar | [IBM Event](https://reg.tools.ibm.com/flow/ibm/techxchange26/sessioncatalog/page/sessioncatalog/session/1773931463996001zwhu) | Technology Breakout Session |
 | 26–29 Oct 2026 |  IBM TechXchange 2026 - Atlanta (USA) | **Speaker** - Lights, Camera, Nomad: GPU-Accelerated AI for Media Workloads at Scale | [IBM Event](https://reg.tools.ibm.com/flow/ibm/techxchange26/sessioncatalog/page/sessioncatalog/session/1773931783736001hp8g) | Tech Talk |
 | 26–29 Oct 2026 |  IBM TechXchange 2026 - Atlanta (USA) | **Speaker** - One Malicious PyPI Package. 33,688 AI Deployments. Every Credential Gone | [IBM Event](https://reg.tools.ibm.com/flow/ibm/techxchange26/sessioncatalog/page/sessioncatalog/session/1773931783736001hp8g) | Technology Breakout Session |
@@ -60,7 +59,8 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Date          | Event / Org                                        | Activity / Title                                                                                          | Links |
 |--------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------|
-| 12 Sept 2026 | AWS Community Day Vadodara 2026 | **Co-organizer** | [ACD Vadodara 2026](https://acd26.awsugvad.in/) |
+| 1 Oct 2026 | KCPCon 2026 | **Speaker** - "GPU as a Platform Service: Multi-Tenancy with kcp" | [KCPCon 2026](https://community2.cncf.io/virtual-project-events-hosted-by-cncf/) |
+| 12 Sept 2026 | AWS Community Day Vadodara 2026 | **Co-organizer** - Co-organized the 5th AWS Community Day Vadodara, bringing 650+ attendees together for talks by 5 speakers, including 3 AWS Heroes, and 2 Ask Us Anything panels, after 3 months of planning | [ACD Vadodara 2026](https://acd26.awsugvad.in/) |
 | 15 Aug 2026 | AWS User Group Vadodara | **Co-Organizer** - Free In-person Hackathon: Code with Kiro - part of UG Builder Series | [AWS UG Vadodara](https://www.meetup.com/aws-community-vadodara/events/315733054/) |
 | 8 Aug 2026 | AWS User Group Vadodara | **Co-Organizer** - Free In-Person Meetup: A Year of Kiro — Power, Steering, Hooks & More | [AWS UG Vadodara](https://www.meetup.com/aws-community-vadodara/events/315734424/) |
 | 11 July 2026 | AWS User Group Vadodara | **Co-Organizer** - Free In-person Meetup: The Data Layer Behind Every Good AI Agent | [AWS UG Vadodara](https://www.meetup.com/aws-community-vadodara/events/315493516/) |
@@ -90,6 +90,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Issue | Date | Title | Link |
 |-------|------|-------|------|
+| #88 | 02 Oct 2026 | The Default Is the Decision You Never Made | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-2d9) |
 | #87 | 25 Sep 2026 | Isolation and Efficiency Are the Same Problem | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-e18?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #86 | 19 Sep 2026 | The Model Is the Easy Part | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-177?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #85 | 13 Sep 2026 | Remembering Is the Hard Part | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-584?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
@@ -148,12 +149,12 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 **Other Contributions**
 
-| Date | Contribution | Links |
-|------|--------------|-------|
-| Sept, 2026 | **Author** – Book on "Container on AWS" | TBA |
-| Nov, 2026 | **Co-Author** – Book on "AI/ML and Agentic AI on EKS" | TBA |
-| Oct/Nov, 2026 | **Technical Reviewer** – Technical reviewer for a book: "Mastering AWS EKS, Second Edition" | TBA |
-| Dec, 2026 | **Author** – Book on "Sandboxed: Securing Autonomous AI Agents on Kubernetes" | TBA |
+| Date | Contribution | Website |Amazon |
+|------|--------------|---------|-------|
+| Sept, 2026 | **Author** – Book on "Container on AWS" | [Purchase from Website](https://orangeava.in/products/mastering-containers-on-aws?_pos=1&_sid=0f0461c60&_ss=r&variant=49323633442955) | [Buy it on Amazon](https://www.amazon.in/Mastering-Containers-AWS-Orange-AVA/dp/816964643X/ref=sr_1_1?crid=A0PB1LZRQHJ5&dib=eyJ2IjoiMSJ9.LgLOqw-p2uv-vMQchKWiow.oJaxnPQ_rsCvEGJN2JBh8960c3vNWLyTE44OCGeNMl0&dib_tag=se&keywords=9788169646437&qid=1790836666&s=books&sprefix=9788169646437%2Cstripbooks%2C240&sr=1-1) |
+| Nov, 2026 | **Co-Author** – Book on "AI/ML and Agentic AI on EKS" | TBA | TBA |
+| Oct/Nov, 2026 | **Technical Reviewer** – Technical reviewer for a book: "Mastering AWS EKS, Second Edition" | TBA | [Buy it on Amazon](https://www.amazon.in/Mastering-Elastic-Kubernetes-Service-AWS-ebook/dp/B0H8SMSBY5) |
+| Dec, 2026 | **Author** – Book on "Sandboxed: Securing Autonomous AI Agents on Kubernetes" | TBA | TBA |
 
 ---
 
