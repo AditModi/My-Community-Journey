@@ -90,6 +90,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Issue | Date | Title | Link |
 |-------|------|-------|------|
+| #89 | 09 Oct 2026 | Passing Staging Is Not Passing Production | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-095) |
 | #88 | 02 Oct 2026 | The Default Is the Decision You Never Made | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-2d9) |
 | #87 | 25 Sep 2026 | Isolation and Efficiency Are the Same Problem | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-e18?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #86 | 19 Sep 2026 | The Model Is the Easy Part | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-177?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
