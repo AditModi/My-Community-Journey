@@ -55,6 +55,16 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 ## 2026 – Global Resonance
 
+**Author / Technical Reviewer**
+
+| Date | Contribution | Link |
+|------|--------------|------|
+| Sept, 2026 | **Author** – Book on "Container on AWS" | [Purchase from Website](https://orangeava.in/products/mastering-containers-on-aws?_pos=1&_sid=0f0461c60&_ss=r&variant=49323633442955) , [Buy it on Amazon](https://www.amazon.in/Mastering-Containers-AWS-Orange-AVA/dp/816964643X/ref=sr_1_1?crid=A0PB1LZRQHJ5&dib=eyJ2IjoiMSJ9.LgLOqw-p2uv-vMQchKWiow.oJaxnPQ_rsCvEGJN2JBh8960c3vNWLyTE44OCGeNMl0&dib_tag=se&keywords=9788169646437&qid=1790836666&s=books&sprefix=9788169646437%2Cstripbooks%2C240&sr=1-1) |
+| Oct 2026 | **Technical Reviewer / Contributor** – The DevOps Standard: The Vendor-Neutral Model for the AI-Driven World (DevOps Institute) | [Get the free book](https://lnkd.in/eRhTvY4X) |
+| Nov, 2026 | **Co-Author** – Book on "AI/ML and Agentic AI on EKS" | TBA |
+| Oct/Nov, 2026 | **Technical Reviewer** – Technical reviewer for a book: "Mastering AWS EKS, Second Edition" | [Buy it on Amazon](https://www.amazon.in/Mastering-Elastic-Kubernetes-Service-AWS-ebook/dp/B0H8SMSBY5) |
+| Dec, 2026 | **Author** – Book on "Sandboxed: Securing Autonomous AI Agents on Kubernetes" | TBA |
+
 ### Talks, Workshops & Events
 
 | Date          | Event / Org                                        | Activity / Title                                                                                          | Links |
@@ -147,15 +157,6 @@ This repository is my **source of truth** for how I give back to the tech commun
 | Jan 2026 | Deploying GPU-Accelerated AI/ML Workloads to Amazon ECS: Traditional vs Managed Instances | [Read here](https://aditmodi.hashnode.dev/deploying-gpu-accelerated-aiml-workloads-to-amazon-ecs-traditional-vs-managed-instances) |
 | Jan 2026 | ECS Task Rebalancing: How AWS Finally Solved a 9-Year-Old Problem | [Read here](https://aditmodi.hashnode.dev/ecs-task-rebalancing-how-aws-finally-solved-a-9-year-old-problem) |
 | Jan 2026 | ECS Linear and Canary Deployments: Finally Native Traffic Shifting Without the Glue Code | [Read here](https://aditmodi.hashnode.dev/ecs-linear-and-canary-deployments-finally-native-traffic-shifting-without-the-glue-code) |
-
-**Other Contributions**
-
-| Date | Contribution | Website |Amazon |
-|------|--------------|---------|-------|
-| Sept, 2026 | **Author** – Book on "Container on AWS" | [Purchase from Website](https://orangeava.in/products/mastering-containers-on-aws?_pos=1&_sid=0f0461c60&_ss=r&variant=49323633442955) | [Buy it on Amazon](https://www.amazon.in/Mastering-Containers-AWS-Orange-AVA/dp/816964643X/ref=sr_1_1?crid=A0PB1LZRQHJ5&dib=eyJ2IjoiMSJ9.LgLOqw-p2uv-vMQchKWiow.oJaxnPQ_rsCvEGJN2JBh8960c3vNWLyTE44OCGeNMl0&dib_tag=se&keywords=9788169646437&qid=1790836666&s=books&sprefix=9788169646437%2Cstripbooks%2C240&sr=1-1) |
-| Nov, 2026 | **Co-Author** – Book on "AI/ML and Agentic AI on EKS" | TBA | TBA |
-| Oct/Nov, 2026 | **Technical Reviewer** – Technical reviewer for a book: "Mastering AWS EKS, Second Edition" | TBA | [Buy it on Amazon](https://www.amazon.in/Mastering-Elastic-Kubernetes-Service-AWS-ebook/dp/B0H8SMSBY5) |
-| Dec, 2026 | **Author** – Book on "Sandboxed: Securing Autonomous AI Agents on Kubernetes" | TBA | TBA |
 
 ---
 
