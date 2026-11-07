@@ -100,6 +100,7 @@ This repository is my **source of truth** for how I give back to the tech commun
 
 | Issue | Date | Title | Link |
 |-------|------|-------|------|
+| #92 | 08 Nov 2026 | The Work You Don’t See | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-50a?r=5zrt8y) |
 | #91 | 31 Oct 2026 | Ship the Boundary Before the Agent | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-ac8?r=5zrt8y) |
 | #90 | 17 Oct 2026 | The Model Is Rarely the Bottleneck | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-65f?r=5zrt8y&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) |
 | #89 | 09 Oct 2026 | Passing Staging Is Not Passing Production | [Read here](https://everythingabouteksandai.substack.com/p/everything-about-eks-and-ai-infrastructure-095) |
